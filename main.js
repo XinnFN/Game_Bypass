@@ -34,28 +34,12 @@ const FALLBACK_BYPASS = [
     ]
   },
   {
-    name: "Grand Theft Auto V: Enhanced",
-    steamAppId: 3240220,
-    exeName: "PlayGTAV.exe",
-    folderName: "Grand Theft Auto V Enhanced",
+    name: "Pragmata",
+    steamAppId: 3357650,
+    exeName: "PRAGMATA.exe",
+    launchExe: "PRAGMATA.exe",
     files: [
-      "https://github.com/uxqc/L4unch3rH0sting/releases/download/gtave/RUNE64.dll",
-      "https://github.com/uxqc/L4unch3rH0sting/releases/download/gtave/version.dll",
-      "https://github.com/uxqc/L4unch3rH0sting/releases/download/gtave/socialclub_emu.ini",
-      "https://github.com/uxqc/L4unch3rH0sting/releases/download/gtave/PlayGTAV.exe",
-      "https://github.com/uxqc/L4unch3rH0sting/releases/download/gtave/socialclub.dll"
-    ]
-  },
-  {
-    name: "Red Dead Redemption 2",
-    steamAppId: 1174180,
-    exeName: "RDR2.exe",
-    launchExe: "Launcher.exe",
-    files: [
-      "https://github.com/uxqc/L4unch3rH0sting/releases/download/RDR2Files/1911.dll",
-      "https://github.com/uxqc/L4unch3rH0sting/releases/download/RDR2Files/bink2w64.dll",
-      "https://github.com/uxqc/L4unch3rH0sting/releases/download/RDR2Files/Launcher.exe",
-      "https://github.com/uxqc/L4unch3rH0sting/releases/download/RDR2Files/RDR2.exe"
+      "https://github.com/XinnFN/Game_Bypass/releases/download/Pragmata.rar",
     ]
   },
   {
