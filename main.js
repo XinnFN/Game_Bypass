@@ -39,7 +39,7 @@ const FALLBACK_BYPASS = [
     exeName: "PRAGMATA.exe",
     launchExe: "PRAGMATA.exe",
     files: [
-      "https://github.com/XinnFN/Game_Bypass/releases/download/Pragmata.rar",
+      "https://github.com/XinnFN/Game_Bypass/releases/download/Pragmata.rar"
     ]
   },
   {
