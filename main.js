@@ -148,7 +148,7 @@ function saveCustomPaths(data) {
 }
 
 // ── Discord Config ──────────────────────────────────────────────────
-const DISCORD_TOKEN = "MTQ5OTg4MzgzMDM5NDM1NTgxMg.GVhGqz.3ZM_529GMoGQNwBRaA-pUlgcRoylaCoxPalKOc";
+const DISCORD_TOKEN = "";
 const DISCORD_CHANNEL_ID = "1499883720943993012";
 const DISCORD_MESSAGE_ID = "1500161885268607199";
 
