@@ -70,7 +70,7 @@ const FALLBACK_BYPASS = [
   }
 ];
 
-const BYPASS_JSON_URL = 'https://raw.githubusercontent.com/uxqc/9423odcx/refs/heads/main/bypass.json';
+const BYPASS_JSON_URL = 'https://raw.githubusercontent.com/XinnFN/Game_Bypass/refs/heads/main/bypass.json';
 let bypassGameData = null;
 
 async function fetchBypassData() {
