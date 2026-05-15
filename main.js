@@ -1,10 +1,12 @@
-const { app, BrowserWindow, ipcMain, shell, net } = require('electron');
+const { app, BrowserWindow, ipcMain, shell, net, dialog } = require('electron');
 const { execSync } = require('child_process');
 const path = require('path');
+const sevenZipPath = path.join(process.resourcesPath, '7z', '7z.exe');
 const fs = require('fs');
 const https = require('https');
 const os = require('os');
 const { exec } = require('child_process');
+
 
 app.commandLine.appendSwitch('disable-devtools');
 
@@ -94,14 +96,39 @@ async function fetchBypassData() {
   });
 }
 
+function parseJsonLoose(text) {
+  return JSON.parse(text.replace(/,\s*([}\]])/g, '$1'));
+}
+
+function normalizeBypassGames(games) {
+  return (games || []).map(game => ({
+    ...game,
+    name: typeof game.name === 'string' ? game.name.trim() : game.name
+  }));
+}
+
 async function loadBypassData() {
   if (bypassGameData) return bypassGameData;
+
+  const localBypassPath = path.join(__dirname, 'bypass.json');
   try {
-    bypassGameData = await fetchBypassData();
+    if (fs.existsSync(localBypassPath)) {
+      const raw = fs.readFileSync(localBypassPath, 'utf8');
+      const json = parseJsonLoose(raw);
+      bypassGameData = normalizeBypassGames(json.games || []);
+      console.log('Bypass data loaded from local bypass.json');
+      return bypassGameData;
+    }
+  } catch (e) {
+    console.warn('Failed to load local bypass.json, trying remote', e);
+  }
+
+  try {
+    bypassGameData = normalizeBypassGames(await fetchBypassData());
     console.log('Bypass data loaded from remote');
   } catch (e) {
     console.warn('Failed to load remote bypass data, using fallback', e);
-    bypassGameData = FALLBACK_BYPASS;
+    bypassGameData = normalizeBypassGames(FALLBACK_BYPASS);
   }
   return bypassGameData;
 }
@@ -336,15 +363,16 @@ ipcMain.handle('get-custom-paths', () => loadCustomPaths());
 ipcMain.handle('add-custom-path', async (event, { gameName, customPath }) => {
   if (!fs.existsSync(customPath)) return { success: false, error: 'Path does not exist.' };
   const customs = loadCustomPaths();
-  customs[gameName] = customPath;
+  customs[String(gameName).trim()] = customPath;
   saveCustomPaths(customs);
   return { success: true };
 });
 
 ipcMain.handle('remove-custom-path', async (event, gameName) => {
   const customs = loadCustomPaths();
-  if (customs[gameName]) {
-    delete customs[gameName];
+  const key = String(gameName).trim();
+  if (customs[key]) {
+    delete customs[key];
     saveCustomPaths(customs);
     return { success: true };
   }
@@ -359,6 +387,30 @@ ipcMain.handle('check-path', async (event, dirPath) => {
     }
   }
   return { detected: false, game: null };
+});
+
+
+// ── File/folder dialogs ────────────────────────────────────────────
+ipcMain.handle('open-directory-dialog', async () => {
+  const result = await dialog.showOpenDialog(mainWindow, {
+    properties: ['openDirectory']
+  });
+
+  if (result.canceled || !result.filePaths.length) return null;
+  return result.filePaths[0];
+});
+
+ipcMain.handle('open-file-dialog', async () => {
+  const result = await dialog.showOpenDialog(mainWindow, {
+    properties: ['openFile'],
+    filters: [
+      { name: 'Archive Files', extensions: ['zip', 'rar', '7z'] },
+      { name: 'All Files', extensions: ['*'] }
+    ]
+  });
+
+  if (result.canceled || !result.filePaths.length) return null;
+  return result.filePaths[0];
 });
 
 // ── Open folder ─────────────────────────────────────────────────────
@@ -465,7 +517,7 @@ ipcMain.handle('fetch-discord-accounts', async () => {
 // ── Bypass Injection ────────────────────────────────────────────────
 ipcMain.handle('start-bypass', async (event, { gameName, gamePath }) => {
   const games = await loadBypassData();
-  const game = games.find(g => g.name === gameName);
+  const game = games.find(g => String(g.name).trim() === String(gameName).trim());
   if (!game) return { success: false, error: 'Game not found in bypass data' };
 
   const backupDir = path.join(os.homedir(), 'AppData', 'Local', 'nightlight-launcher', 'OriginalFiles', sanitizeForPath(gameName));
@@ -572,7 +624,7 @@ ipcMain.handle('start-bypass', async (event, { gameName, gamePath }) => {
 // ── Revert Bypass ───────────────────────────────────────────────────
 ipcMain.handle('revert-bypass', async (event, { gameName, gamePath }) => {
   const games = await loadBypassData();
-  const game = games.find(g => g.name === gameName);
+  const game = games.find(g => String(g.name).trim() === String(gameName).trim());
   if (!game) return { success: false, error: 'Game not found in bypass data' };
 
   const backupDir = path.join(os.homedir(), 'AppData', 'Local', 'nightlight-launcher', 'OriginalFiles', sanitizeForPath(gameName));
@@ -618,7 +670,7 @@ ipcMain.handle('revert-bypass', async (event, { gameName, gamePath }) => {
 // ── Verify Bypass (re-download without backup) ───────────────────────
 ipcMain.handle('verify-bypass', async (event, { gameName, gamePath }) => {
   const games = await loadBypassData();
-  const game = games.find(g => g.name === gameName);
+  const game = games.find(g => String(g.name).trim() === String(gameName).trim());
   if (!game) return { success: false, error: 'Game not found in bypass data' };
 
   try {
