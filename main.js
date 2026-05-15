@@ -26,7 +26,7 @@ function extractZip(zipPath, destDir) {
 
 // ── Fallback bypass data ───────────────────────────────────────────
 const FALLBACK_BYPASS = [
-  {
+   {
     name: "Black.Myth.Wukong",
     steamAppId: 2358720,
     exeName: "b1-Win64-Shipping.exe",
