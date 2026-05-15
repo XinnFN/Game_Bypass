@@ -9,15 +9,12 @@
       ]
     },
     {
-      "name": "Red Dead Redemption 2",
-      "steamAppId": 1174180,
-      "exeName": "RDR2.exe",
-      "launchExe": "Launcher.exe",
+      "name": "Pragmata",
+      "steamAppId": 3357650,
+      "exeName": "PRAGMATA.exe",
+      "launchExe": "PRAGMATA.exe",
       "files": [
-        "https://github.com/uxqc/L4unch3rH0sting/releases/download/RDR2Files/1911.dll",
-        "https://github.com/uxqc/L4unch3rH0sting/releases/download/RDR2Files/bink2w64.dll",
-        "https://github.com/uxqc/L4unch3rH0sting/releases/download/RDR2Files/Launcher.exe",
-        "https://github.com/uxqc/L4unch3rH0sting/releases/download/RDR2Files/RDR2.exe"
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Pragmata.rar"
       ]
     },
     {
