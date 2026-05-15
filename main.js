@@ -30,7 +30,7 @@ const FALLBACK_BYPASS = [
     exeName: "b1-Win64-Shipping.exe",
     folderName: "Black Myth Wukong",
     files: [
-      "https://pixeldrain.com/u/HVPLRo3f",
+      "https://github.com/XinnFN/Game_Bypass/releases/download/Black_Myth_Wukong/Black.Myth.Wukong.Bypass.rar"
     ]
   },
   {
