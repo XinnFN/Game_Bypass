@@ -5,7 +5,7 @@
       "steamAppId": 2358720,
       "exeName": "b1-Win64-Shipping.exe",
       "files": [
-        "https://github.com/XinnFN/Game_Bypass/releases/download/Black_Myth_Wukong/Black.Myth.Wukong.Bypass.rar",
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Black.Myth.Wukong.rar"
       ]
     },
     {
@@ -14,34 +14,36 @@
       "exeName": "PRAGMATA.exe",
       "launchExe": "PRAGMATA.exe",
       "files": [
-        "https://github.com/XinnFN/Game_Bypass/releases/download/Pragmata/PRAGMATA.rar"
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/PRAGMATA.rar"
       ]
     },
     {
-      "name": "Red Dead Redemption",
-      "steamAppId": 2668510,
-      "exeName": "RDR.exe",
-      "launchExe": "PlayRDR.exe",
+      "name": "EA SPORTS™ FIFA 23",
+      "steamAppId": 1811260,
+      "exeName": "FIFA23.exe",
+      "launchExe": "Launcher.exe",
       "files": [
-        "https://github.com/uxqc/L4unch3rH0sting/releases/download/RDR1Files/1911.dll",
-        "https://github.com/uxqc/L4unch3rH0sting/releases/download/RDR1Files/PlayRDR.exe",
-        "https://github.com/uxqc/L4unch3rH0sting/releases/download/RDR1Files/RDR.exe",
-        "https://github.com/uxqc/L4unch3rH0sting/releases/download/RDR1Files/steam_api64.dll"
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/EA.SPORTS.FIFA.23.rar"
       ]
     },
     {
-      "name": "Grand Theft Auto IV",
-      "steamAppId": 12210,
-      "exeName": "GTAIV.exe",
-      "launchExe": "PlayGTAIV.exe",
+      "name": "Watch_Dogs",
+      "steamAppId": 243470,
+      "exeName": "watch_dogs.exe",
+      "launchExe": "watch_dogs.exe",
       "files": [
-        "https://github.com/uxqc/L4unch3rH0sting/releases/download/GTAIVFiles/binkw32.dll",
-        "https://github.com/uxqc/L4unch3rH0sting/releases/download/GTAIVFiles/GTAIV.exe",
-        "https://github.com/uxqc/L4unch3rH0sting/releases/download/GTAIVFiles/launc.dll",
-        "https://github.com/uxqc/L4unch3rH0sting/releases/download/GTAIVFiles/orig_socialclub.dll",
-        "https://github.com/uxqc/L4unch3rH0sting/releases/download/GTAIVFiles/PlayGTAIV.exe",
-        "https://github.com/uxqc/L4unch3rH0sting/releases/download/GTAIVFiles/socialclub.dll"
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Watch.Dogs.FIX.rar"
       ]
+    },
+    {
+      "name": "Watch_Dogs 2",
+      "steamAppId": 447040,
+      "exeName": "WatchDogs2.exe",
+      "launchExe": "WatchDogs2.exe",
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Watch.Dogs.2.rar"
+      ]
+    },
     }
   ]
 }
