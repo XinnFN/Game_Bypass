@@ -1,0 +1,67 @@
+{
+  "games": [
+    {
+      "name": "Black Myth Wukong  ",
+      "steamAppId": 2358720,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Black.Myth.Wukong.rar"
+      ]
+    },
+    {
+      "name": "Pragmata",
+      "steamAppId": "3357650",
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/PRAGMATA.rar"
+      ]
+    },
+    {
+      "name": "EA SPORTS™ FIFA 23",
+      "steamAppId": 1811260,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/EA.SPORTS.FIFA.23.rar"
+      ]
+    },
+    {
+      "name": "Watch_Dogs",
+      "steamAppId": 243470,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Watch.Dogs.FIX.rar"
+      ]
+    },
+    {
+      "name": "Watch_Dogs 2",
+      "steamAppId": 447040,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Watch.Dogs.2.rar"
+      ]
+      },
+    {
+      "name": "Far Cry® 3",
+      "steamAppId": 220240,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/FarCry3.rar"
+      ]
+    },
+    {
+      "name": "Resident Evil Requiem",
+      "steamAppId": 3764200,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/RE.9.rar"
+      ]
+      },
+    {
+      "name": "Far Cry 5",
+      "steamAppId": 552520,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/FarCry5.rar"
+      ]
+      },
+    {
+      "name": "PRO EVOLUTION SOCCER 2018",
+      "steamAppId": 592580,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/PES.2018.rar"
+      ]
+    }
+  ]
+}
