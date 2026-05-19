@@ -8,6 +8,34 @@
       ]
     },
     {
+      "name": "Devil May Cry 5",
+      "steamAppId": "601150",
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/601150.zip"
+      ]
+    },
+    {
+      "name": "Persona 3 Reload",
+      "steamAppId": "2161700",
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/2161700.zip"
+      ]
+    },
+    {
+      "name": "Forza Horizon 6",
+      "steamAppId": "2483190",
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/2483190.zip"
+      ]
+    },
+    {
+      "name": "Subnautica 2",
+      "steamAppId": "1962700",
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/1962700.zip"
+      ]
+    },
+    {
       "name": "Pragmata",
       "steamAppId": "3357650",
       "files": [
@@ -19,6 +47,27 @@
       "steamAppId": 1811260,
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/1811260.zip"
+      ]
+    },
+    {
+      "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2",
+      "steamAppId": 2928600,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/2928600.zip"
+      ]
+    },
+    {
+      "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles",
+      "steamAppId": 1490890,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/1490890.zip"
+      ]
+    },
+    {
+      "name": "Stellar Blade™",
+      "steamAppId": 3489700,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/1490890.zip"
       ]
     },
     {
@@ -57,10 +106,17 @@
       ]
       },
     {
-      "name": "Far Cry 5",
-      "steamAppId": 552520,
+      "name": "Persona 4 Arena Ultimax",
+      "steamAppId": 1602010,
       "files": [
-        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/552520.zip"
+        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/1602010.zip"
+      ]
+      },
+    {
+      "name": "Wallpaper Engine",
+      "steamAppId": 431960,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/431960.zip"
       ]
       },
     {
