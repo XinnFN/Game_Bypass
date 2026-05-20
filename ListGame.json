@@ -99,6 +99,27 @@
       ]
       },
     {
+      "name": "Lies of P",
+      "steamAppId": 1627720,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/1627720.zip"
+      ]
+      },
+    {
+      "name": "Clair Obscur: Expedition 33",
+      "steamAppId": 1903340,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/1903340.zip"
+      ]
+      },
+    {
+      "name": "ELDEN RING NIGHTREIGN",
+      "steamAppId": 2622380,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/2622380.zip"
+      ]
+      },
+    {
       "name": "Far Cry 5",
       "steamAppId": 552520,
       "files": [
