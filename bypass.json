@@ -1,8 +1,8 @@
 {
   "games": [
     {
-      "name": "Black Myth Wukong  ",
-      "steamAppId": 2358720
+      "name": "Black Myth Wukong",
+      "steamAppId": 2358720,
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Black.Myth.Wukong.rar"
       ]
