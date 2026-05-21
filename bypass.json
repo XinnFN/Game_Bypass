@@ -2,8 +2,7 @@
   "games": [
     {
       "name": "Black Myth Wukong  ",
-      "steamAppId": 2358720,
-      "exeName": "b1-Win64-Shipping.exe",
+      "steamAppId": 2358720
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Black.Myth.Wukong.rar"
       ]
@@ -11,8 +10,6 @@
     {
       "name": "Pragmata",
       "steamAppId": 3357650,
-      "exeName": "PRAGMATA.exe",
-      "launchExe": "PRAGMATA.exe",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/PRAGMATA.rar"
       ]
@@ -20,17 +17,20 @@
     {
       "name": "EA SPORTS™ FIFA 23",
       "steamAppId": 1811260,
-      "exeName": "FIFA23.exe",
-      "launchExe": "Launcher.exe",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/EA.SPORTS.FIFA.23.rar"
       ]
     },
     {
+      "name": "Resident Evil Requiem",
+      "steamAppId": 3764200,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/RE.9.rar"
+      ]
+    },
+    {
       "name": "Watch_Dogs",
       "steamAppId": 243470,
-      "exeName": "watch_dogs.exe",
-      "launchExe": "watch_dogs.exe",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Watch.Dogs.FIX.rar"
       ]
@@ -38,8 +38,6 @@
     {
       "name": "Watch_Dogs 2",
       "steamAppId": 447040,
-      "exeName": "WatchDogs2.exe",
-      "launchExe": "WatchDogs2.exe",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Watch.Dogs.2.rar"
       ]
