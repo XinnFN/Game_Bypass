@@ -1,0 +1,7 @@
+{
+  "users": [
+    { "username": "user981261", "active": true },
+    { "username": "user987361", "active": true },
+    { "username": "user981273", "active": false }
+  ]
+}
