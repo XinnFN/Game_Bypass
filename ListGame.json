@@ -158,6 +158,69 @@
       ]
       },
     {
+      "name": "Resident Evil 0",
+      "steamAppId": 339340,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/339340.zip"
+      ]
+      },
+    {
+      "name": "Resident Evil 2",
+      "steamAppId": 883710,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/883710.zip"
+      ]
+      },
+    {
+      "name": "Resident Evil 3",
+      "steamAppId": 952060,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/952060.zip"
+      ]
+      },
+    {
+      "name": "Resident Evil 4 (2005)",
+      "steamAppId": 254700,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/254700.zip"
+      ]
+      },
+    {
+      "name": "Resident Evil 4",
+      "steamAppId": 2050650,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/2050650.zip"
+      ]
+      },
+    {
+      "name": "Resident Evil 5",
+      "steamAppId": 21690,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/21690.zip"
+      ]
+      },
+    {
+      "name": "Resident Evil 6",
+      "steamAppId": 221040,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/221040.zip"
+      ]
+      },
+    {
+      "name": "Resident Evil 7 Biohazard",
+      "steamAppId": 418370,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/418370.zip"
+      ]
+      },
+    {
+      "name": "Resident Evil Village",
+      "steamAppId": 1196590,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/1196590.zip"
+      ]
+      },
+    {
       "name": "Watch_Dogs™",
       "steamAppId": 243470,
       "files": [
