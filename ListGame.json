@@ -64,6 +64,13 @@
       ]
     },
     {
+      "name": "Mafia: The Old Country",
+      "steamAppId": "1941540",
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/1941540.zip"
+      ]
+    },
+    {
       "name": "Subnautica 2",
       "steamAppId": "1962700",
       "files": [
