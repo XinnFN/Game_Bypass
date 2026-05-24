@@ -11,7 +11,7 @@
   },
   {
     "username": "tester",
-    "password": "123",
+    "active": "false",
     "role": "shadow"
   }
 ]
