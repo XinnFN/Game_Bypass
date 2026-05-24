@@ -3,6 +3,7 @@
     {
       "name": "Black Myth Wukong",
       "steamAppId": 2358720,
+      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2358720/header.jpg?t=1760601605",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/2358720.zip"
       ]
@@ -10,6 +11,7 @@
     {
       "name": "SILENT HILL f",
       "steamAppId": 2947440,
+      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2947440/7e5d923ac622bd1775ebc9b5d4b5b0a24bf5ed40/header.jpg?t=1770169624",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/2947440.zip"
       ]
@@ -17,6 +19,7 @@
     {
       "name": "LEGO® Batman™: Legacy of the Dark Knight",
       "steamAppId": 2215200,
+      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2215200/a07a9a6c0c9c1225f5b260b4f29fe40e6f099f6b/header.jpg?t=1779499107",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/2215200.zip"
       ]
@@ -24,6 +27,7 @@
     {
       "name": "Devil May Cry 5",
       "steamAppId": "601150",
+      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/601150/header.jpg?t=1768869803",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/601150.zip"
       ]
@@ -31,6 +35,7 @@
     {
       "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 3 Full Burst",
       "steamAppId": "234670",
+      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/234670/header.jpg?t=1703662542",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/234670.zip"
       ]
@@ -38,6 +43,7 @@
     {
       "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4",
       "steamAppId": "349040",
+      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/349040/header.jpg?t=1703080866",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/349040.zip"
       ]
@@ -45,6 +51,7 @@
     {
       "name": "DARK SOULS™: REMASTERED",
       "steamAppId": "570940",
+      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/570940/header.jpg?t=1778518110",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/570940.zip"
       ]
@@ -52,6 +59,7 @@
     {
       "name": "Persona 3 Reload",
       "steamAppId": "2161700",
+      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2161700/header.jpg?t=1764776430",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/2161700.zip"
       ]
@@ -67,6 +75,7 @@
     {
       "name": "Mafia: The Old Country",
       "steamAppId": "1941540",
+      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1941540/d06980bb8f41737ca68da8eed40079347db09c84/header.jpg?t=1764177372",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/1941540.zip"
       ]
@@ -74,6 +83,7 @@
     {
       "name": "Subnautica 2",
       "steamAppId": "1962700",
+      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1962700/header.jpg?t=1779437128",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/1962700.zip"
       ]
@@ -81,9 +91,7 @@
     {
       "name": "Pragmata",
       "steamAppId": "3357650",
-      "header": [
-        "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3357650/e32e168b25ed68a0cf6264c220c07e96c2abfb56/header.jpg?t=1777351016"
-      ],
+      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3357650/e32e168b25ed68a0cf6264c220c07e96c2abfb56/header.jpg?t=1777351016",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/3357650.zip"
       ]
@@ -91,6 +99,7 @@
     {
       "name": "EA SPORTS™ FIFA 23",
       "steamAppId": 1811260,
+      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1811260/header.jpg?t=1750187458",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/1811260.zip"
       ]
@@ -98,6 +107,7 @@
     {
       "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2",
       "steamAppId": 2928600,
+      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2928600/f8a7d046233fb84b20fc546c98b8e2d3f3439033/header.jpg?t=1776384111",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/2928600.zip"
       ]
@@ -105,6 +115,7 @@
     {
       "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles",
       "steamAppId": 1490890,
+      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1490890/header.jpg?t=1762753763",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/1490890.zip"
       ]
@@ -112,6 +123,7 @@
     {
       "name": "Stellar Blade™",
       "steamAppId": 3489700,
+      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3489700/header.jpg?t=1776466244",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/1490890.zip"
       ]
@@ -119,6 +131,7 @@
     {
       "name": "Persona 5 Strikers",
       "steamAppId": 1382330,
+      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1382330/header.jpg?t=1763530465",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/1382330.zip"
       ]
@@ -126,6 +139,7 @@
     {
       "name": "Watch_Dogs 2",
       "steamAppId": 447040,
+      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/447040/header.jpg?t=1751986887",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/447040.zip"
       ]
@@ -133,6 +147,7 @@
     {
       "name": "Far Cry® 3",
       "steamAppId": 220240,
+      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/220240/header.jpg?t=1752169206",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/220240.zip"
       ]
@@ -140,6 +155,7 @@
     {
       "name": "Resident Evil Requiem",
       "steamAppId": 3764200,
+      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3764200/ce5437442768e38eb575f205ab9397d0264017b0/header.jpg?t=1772587704",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/3764200.zip"
       ]
@@ -147,6 +163,7 @@
     {
       "name": "Lies of P",
       "steamAppId": 1627720,
+      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1627720/header.jpg?t=1764565054",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/1627720.zip"
       ]
@@ -154,6 +171,7 @@
     {
       "name": "Clair Obscur: Expedition 33",
       "steamAppId": 1903340,
+      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1903340/be3305b02d4db0dffa3458537118423bf2792d7e/header.jpg?t=1773676780",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/1903340.zip"
       ]
@@ -161,6 +179,7 @@
     {
       "name": "ELDEN RING NIGHTREIGN",
       "steamAppId": 2622380,
+      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2622380/header.jpg?t=1773099036",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/2622380.zip"
       ]
@@ -168,6 +187,7 @@
     {
       "name": "Far Cry 5",
       "steamAppId": 552520,
+      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/552520/header.jpg?t=1762190084",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/552520.zip"
       ]
@@ -175,6 +195,7 @@
     {
       "name": "Persona 4 Arena Ultimax",
       "steamAppId": 1602010,
+      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1602010/header.jpg?t=1763530579",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/1602010.zip"
       ]
@@ -182,6 +203,7 @@
     {
       "name": "Resident Evil 0",
       "steamAppId": 339340,
+      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/339340/header.jpg?t=1768953920",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/339340.zip"
       ]
@@ -189,6 +211,7 @@
     {
       "name": "Resident Evil 2",
       "steamAppId": 883710,
+      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/883710/header.jpg?t=1779433152",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/883710.zip"
       ]
@@ -196,6 +219,7 @@
     {
       "name": "Resident Evil 3",
       "steamAppId": 952060,
+      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/952060/header.jpg?t=1778616591",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/952060.zip"
       ]
@@ -203,6 +227,7 @@
     {
       "name": "Resident Evil 4 (2005)",
       "steamAppId": 254700,
+      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/254700/header.jpg?t=1768960618",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/254700.zip"
       ]
@@ -210,6 +235,7 @@
     {
       "name": "Resident Evil 4",
       "steamAppId": 2050650,
+      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2050650/header.jpg?t=1772502922",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/2050650.zip"
       ]
@@ -217,6 +243,7 @@
     {
       "name": "Resident Evil 5",
       "steamAppId": 21690,
+      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/21690/header.jpg?t=1768960574",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/21690.zip"
       ]
@@ -224,6 +251,7 @@
     {
       "name": "Resident Evil 6",
       "steamAppId": 221040,
+      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/221040/header.jpg?t=1768960676",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/221040.zip"
       ]
@@ -231,6 +259,7 @@
     {
       "name": "Resident Evil 7 Biohazard",
       "steamAppId": 418370,
+      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/418370/header.jpg?t=1778464947",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/418370.zip"
       ]
@@ -238,6 +267,7 @@
     {
       "name": "Resident Evil Village",
       "steamAppId": 1196590,
+      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1196590/header.jpg?t=1776927117",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/1196590.zip"
       ]
@@ -245,6 +275,7 @@
     {
       "name": "Watch_Dogs™",
       "steamAppId": 243470,
+      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/243470/header.jpg?t=1739177057",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/243470.zip"
       ]
@@ -252,6 +283,7 @@
     {
       "name": "Wallpaper Engine",
       "steamAppId": 431960,
+      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/431960/header.jpg?t=1779452230",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/431960.zip"
       ]
@@ -259,6 +291,7 @@
     {
       "name": "PRO EVOLUTION SOCCER 2018",
       "steamAppId": 592580,
+      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/592580/header.jpg?t=1543425596",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/592580.zip"
       ]
