@@ -1,10 +1,18 @@
-{
-  "users": [
-    { "username": "user981261", "active": true },
-    { "username": "SyndRome", "active": true },
-    { "username": "user981345", "active": true },
-    { "username": "user983321", "active": true },
-    { "username": "user987361", "active": true },
-    { "username": "user981273", "active": false }
-  ]
-}
+JSON
+[
+  {
+    "username": "gigs",
+    "password": "123",
+    "role": "soldier"
+  },
+  {
+    "username": "kroco1",
+    "password": "123",
+    "role": "shadow"
+  },
+  {
+    "username": "tester",
+    "password": "123",
+    "role": "shadow"
+  }
+]
