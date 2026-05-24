@@ -1,12 +1,12 @@
 [
   {
     "username": "Xinn",
-    "password": "123",
+    "active": "true",
     "role": "soldier"
   },
   {
     "username": "kroco1",
-    "password": "123",
+    "active": "false",
     "role": "shadow"
   },
   {
