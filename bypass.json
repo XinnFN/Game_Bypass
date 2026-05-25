@@ -8,13 +8,6 @@
       ]
     },
     {
-      "name": "Red Dead Redemption 2",
-      "steamAppId": 1174180,
-      "files": [
-        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Red.Dead.Redemption.2.7z"
-      ]
-    },
-    {
        "name": "LEGO® Batman™: Legacy of the Dark Knight",
       "steamAppId": 2215200,
       "files": [
@@ -36,10 +29,59 @@
       ]
     },
     {
+      "name": "Grand Theft Auto V Enhanced",
+      "steamAppId": 3240220,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Grand.Theft.Auto.V.Enhanced.7z"
+      ]
+    },
+    {
+      "name": "Grand Theft Auto V Legacy",
+      "steamAppId": 271590,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Grand.Theft.Auto.V.Legacy.7z"
+      ]
+    },
+    {
+      "name": "Grand Theft Auto IV: The Complete Edition",
+      "steamAppId": 12210,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Grand.Theft.Auto.IV.7z"
+      ]
+    },
+    {
+      "name": "Grand Theft Auto: San Andreas - The Definitive Edition",
+      "steamAppId": 1547000,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/San.Andreas.-.The.Definitive.Edition.7z"
+      ]
+    },
+    {
+      "name": "Grand Theft Auto: Vice City - The Definitive Edition",
+      "steamAppId": 1546990,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Grand.Theft.Auto.Vice.City.Definitive.Edition.rar"
+      ]
+    },
+    {
+      "name": "Grand Theft Auto III - The Definitive Edition",
+      "steamAppId": 1546970,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Grand.Theft.Auto.III.Definitive.Edition.rar"
+      ]
+    },
+    {
       "name": "Mafia: The Old Country",
       "steamAppId": 1941540,
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Mafia.The.Old.Country.rar"
+      ]
+    },
+    {
+      "name": "Red Dead Redemption 2",
+      "steamAppId": 1174180,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Red.Dead.Redemption.2.7z"
       ]
     },
     {
