@@ -8,6 +8,13 @@
       ]
     },
     {
+      "name": "Red Dead Redemption 2",
+      "steamAppId": 1174180,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Red.Dead.Redemption.2.7z"
+      ]
+    },
+    {
        "name": "LEGO® Batman™: Legacy of the Dark Knight",
       "steamAppId": 2215200,
       "files": [
