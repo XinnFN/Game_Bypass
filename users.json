@@ -1,26 +1,31 @@
 [
   {
     "username": "Xinnpesatir",
+    "password": "tuanPesatir",
     "active": "true",
     "role": "soldier"
   },
   { 
     "username": "Ochipsnakano",
+    "password": "ocipcip",
     "active": "true",
     "role": "soldier"
   },
   {
     "username": "rafkikir",
+    "password": "rafael",
     "active": "true",
     "role": "shadow"
   },
   {
     "username": "kroco1",
+    "password": "kroco11",
     "active": "true",
     "role": "shadow"
   },
   {
     "username": "tester",
+    "password": "tester123",
     "active": "true",
     "role": "shadow"
   }
