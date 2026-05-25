@@ -10,6 +10,11 @@
     "role": "soldier"
   },
   {
+    "username": "rafkikir",
+    "active": "true",
+    "role": "shadow"
+  },
+  {
     "username": "kroco1",
     "active": "true",
     "role": "shadow"
