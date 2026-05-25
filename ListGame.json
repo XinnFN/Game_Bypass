@@ -9,6 +9,14 @@
       ]
     },
     {
+      "name": "Red Dead Redemption",
+      "steamAppId": 2668510,
+      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2668510/header.jpg?t=1741118459",
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/2668510.zip"
+      ]
+    },
+    {
       "name": "SILENT HILL f",
       "steamAppId": 2947440,
       "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2947440/7e5d923ac622bd1775ebc9b5d4b5b0a24bf5ed40/header.jpg?t=1770169624",
