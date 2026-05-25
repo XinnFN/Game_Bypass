@@ -16,7 +16,7 @@
   },
   {
     "username": "tester",
-    "active": "false",
+    "active": "true",
     "role": "shadow"
   }
 ]
