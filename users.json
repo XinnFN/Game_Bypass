@@ -12,6 +12,12 @@
     "role": "soldier"
   },
   {
+    "username": "yukosatoru",
+    "password": "yukok",
+    "active": "true",
+    "role": "soldier"
+  },
+  {
     "username": "rafkikir",
     "password": "rafael",
     "active": "false",
