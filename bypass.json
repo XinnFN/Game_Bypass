@@ -71,6 +71,48 @@
       ]
     },
     {
+      "name": "Far Cry New Dawn",
+      "steamAppId": 939960,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Far.Cry.New.Dawn.rar"
+      ]
+    },
+    {
+      "name": "Far Cry Primal",
+      "steamAppId": 371660,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Far.Cry.Primal.rar"
+      ]
+    },
+    {
+      "name": "Far Cry 6",
+      "steamAppId": 2369390,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Far.Cry.6.rar"
+      ]
+    },
+    {
+      "name": "Far Cry 5",
+      "steamAppId": 552520,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Far.Cry.5.rar"
+      ]
+    },
+    {
+      "name": "Far Cry 4",
+      "steamAppId": 298110,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Far.Cry.4.rar"
+      ]
+    },
+    {
+      "name": "Far Cry® 3",
+      "steamAppId": 220240,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Far.Cry.3.rar"
+      ]
+    },
+    {
       "name": "Mafia: The Old Country",
       "steamAppId": 1941540,
       "files": [
