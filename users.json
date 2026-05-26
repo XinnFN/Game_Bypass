@@ -24,6 +24,18 @@
     "role": "shadow"
   },
   {
+    "username": "dinos1",
+    "password": "dinos123",
+    "active": "true",
+    "role": "shadow"
+  },
+  {
+    "username": "knix111",
+    "password": "knix123",
+    "active": "true",
+    "role": "shadow"
+  },
+  {
     "username": "kroco1",
     "password": "kroco11",
     "active": "false",
