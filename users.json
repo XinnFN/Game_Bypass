@@ -14,19 +14,19 @@
   {
     "username": "rafkikir",
     "password": "rafael",
-    "active": "true",
+    "active": "false",
     "role": "shadow"
   },
   {
     "username": "kroco1",
     "password": "kroco11",
-    "active": "true",
+    "active": "false",
     "role": "shadow"
   },
   {
     "username": "tester",
     "password": "tester123",
-    "active": "true",
+    "active": "false",
     "role": "shadow"
   }
 ]
