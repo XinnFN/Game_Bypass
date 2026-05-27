@@ -12,6 +12,12 @@
     "role": "soldier"
   },
   {
+    "username": "Ochips26",
+    "password": "ocipganteng",
+    "active": "true",
+    "role": "shadow"
+  },
+  {
     "username": "yukosatoru",
     "password": "yukok",
     "active": "false",
