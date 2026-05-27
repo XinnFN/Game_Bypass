@@ -62,7 +62,7 @@
   {
     "username": "tester",
     "password": "tester123",
-    "active": "false",
+    "active": "true",
     "role": "shadow"
   }
 ]
