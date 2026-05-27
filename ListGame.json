@@ -17,6 +17,14 @@
       ]
     },
     {
+      "name": "Phasmophobia",
+      "steamAppId": 739630,
+      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/739630/0a424398a10445bbb922b45771dab7118fe139d2/header_alt_assets_10.jpg?t=1778659672",
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/739630.zip"
+      ]
+    },
+    {
       "name": "Red Dead Redemption",
       "steamAppId": 2668510,
       "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2668510/header.jpg?t=1741118459",
