@@ -18,6 +18,12 @@
     "role": "soldier"
   },
   {
+    "username": "Gamcltz",
+    "password": "Liel213",
+    "active": "true",
+    "role": "shadow"
+  },
+  {
     "username": "rafkikir",
     "password": "rafael",
     "active": "false",
