@@ -30,6 +30,12 @@
     "role": "shadow"
   },
   {
+    "username": "Ryu",
+    "password": "ryu123",
+    "active": "true",
+    "role": "shadow"
+  },
+  {
     "username": "rafkikir",
     "password": "rafael",
     "active": "false",
