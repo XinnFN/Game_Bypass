@@ -49,6 +49,14 @@
       ]
     },
     {
+      "name": "R.E.P.O.",
+      "steamAppId": 3241660,
+      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3241660/a12c92856b71315da885924ea5e1d5290c8025b8/header_alt_assets_2.jpg?t=1778158882",
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/3241660.zip"
+      ]
+    },
+    {
       "name": "LEGO® Batman™: Legacy of the Dark Knight",
       "steamAppId": 2215200,
       "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2215200/a07a9a6c0c9c1225f5b260b4f29fe40e6f099f6b/header.jpg?t=1779499107",
