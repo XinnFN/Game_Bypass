@@ -66,6 +66,12 @@
     "role": "shadow"
   },
   {  
+    "username": "zenith17",
+    "password": "rx_zenith1",
+    "active": "true",
+    "role": "shadow"
+  },
+  {  
     "username": "kroco1",
     "password": "kroco11",
     "active": "false",
