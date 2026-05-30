@@ -48,6 +48,12 @@
     "role": "shadow"
   },
   {
+    "username": "armancihuyy4",
+    "password": "shibalsekiya2",
+    "active": "true",
+    "role": "shadow"
+  },
+  {
     "username": "dinos1",
     "password": "dinos123",
     "active": "true",
@@ -72,12 +78,6 @@
     "role": "shadow"
   },
   {  
-    "username": "armancihuyy4",
-    "password": "shibalsekiya2",
-    "active": "true",
-    "role": "shadow"
-  },
-  {
     "username": "tester",
     "password": "tester123",
     "active": "true",
