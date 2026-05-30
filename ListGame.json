@@ -15,7 +15,7 @@
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/2947440.zip"
       ],
-      "role": "soldier"
+      "allowedRoles": "soldier"
     },
     {
       "name": "Phasmophobia",
@@ -184,7 +184,7 @@
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/2483190.zip"
       ],
-      "role": "soldier"
+      "allowedRoles": "soldier"
     },
     {
       "name": "Grand Theft Auto V Legacy",
