@@ -12,7 +12,8 @@
       "steamAppId": 2215200,
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/LEGO.Batman.Legacy.of.the.Dark.Knight.rar"
-      ]
+      ],
+      "allowedRoles": "soldier"
     },
     {
       "name": "Pragmata",
