@@ -20,14 +20,15 @@
       "steamAppId": 3357650,
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/PRAGMATA.rar"
-      ]
+      ],
+      "allowedRoles": "soldier"
     },
     {
       "name": "Phasmophobia",
       "steamAppId": 739630,
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Phasmophobia.rar"
-      ]
+      ],
     },
     {
       "name": "EA SPORTS™ FIFA 23",
