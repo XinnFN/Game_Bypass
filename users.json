@@ -48,6 +48,12 @@
     "role": "shadow"
   },
   {
+    "username": "zenn11",
+    "password": "zenn1111",
+    "active": "true",
+    "role": "shadow"
+  },
+  {
     "username": "rafkikir",
     "password": "rafael",
     "active": "false",
