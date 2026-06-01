@@ -50,7 +50,8 @@
       "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg?t=1759502961",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/1174180.zip"
-      ]
+      ],
+      "allowedRoles": "shadow, soldier"
     },
     {
       "name": "Yunyun Syndrome!? Rhythm Psychosis",
@@ -66,7 +67,8 @@
       "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3241660/a12c92856b71315da885924ea5e1d5290c8025b8/header_alt_assets_2.jpg?t=1778158882",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/3241660.zip"
-      ]
+      ],
+      "allowedRoles": "shadow, soldier"
     },
     {
       "name": "LEGO® Batman™: Legacy of the Dark Knight",
@@ -83,7 +85,8 @@
       "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/753640/079ae4a7ff4b5875adc5c63c4c0b84e5a3e6966b/header.jpg?t=1779137571",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/753640.zip"
-      ]
+      ],
+      "allowedRoles": "shadow, soldier"
     },
     {
       "name": "Little Nightmares",
@@ -91,7 +94,8 @@
       "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/424840/facf9a7a675c6d7f210d96d6b111caffe0386cd5/header.jpg?t=1773135169",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/424840.zip"
-      ]
+      ],
+      "allowedRoles": "shadow, soldier"
     },
     {
       "name": "Little Nightmares II",
@@ -99,7 +103,8 @@
       "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/860510/header.jpg?t=1730127763",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/860510.zip"
-      ]
+      ],
+      "allowedRoles": "shadow, soldier"
     },
     {
       "name": "Little Nightmares III",
@@ -107,7 +112,8 @@
       "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1392860/7aba96b32736990ec8a131bfdf395d2dc35b282b/header.jpg?t=17678876167571",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/1392860.zip"
-      ]
+      ],
+      "allowedRoles": "shadow, soldier"
     },
     {
       "name": "Devil May Cry 5",
@@ -115,7 +121,8 @@
       "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/601150/header.jpg?t=1768869803",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/601150.zip"
-      ]
+      ],
+      "allowedRoles": "shadow, soldier"
     },
     {
       "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 3 Full Burst",
@@ -123,7 +130,8 @@
       "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/234670/header.jpg?t=1703662542",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/234670.zip"
-      ]
+      ],
+      "allowedRoles": "shadow, soldier"
     },
     {
       "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4",
@@ -131,7 +139,8 @@
       "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/349040/header.jpg?t=1703080866",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/349040.zip"
-      ]
+      ],
+      "allowedRoles": "shadow, soldier"
     },
     {
       "name": "DARK SOULS™: REMASTERED",
@@ -139,7 +148,8 @@
       "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/570940/header.jpg?t=1778518110",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/570940.zip"
-      ]
+      ],
+      "allowedRoles": "shadow, soldier"
     },
     {
       "name": "Persona 3 Reload",
@@ -147,7 +157,8 @@
       "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2161700/header.jpg?t=1764776430",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/2161700.zip"
-      ]
+      ],
+      "allowedRoles": "shadow, soldier"
     },
     {
       "name": "Far Cry New Dawn",
@@ -155,7 +166,8 @@
       "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/939960/header.jpg?t=1750925197",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/939960.zip"
-      ]
+      ],
+      "allowedRoles": "shadow, soldier"
     },
     {
       "name": "Far Cry Primal",
@@ -163,7 +175,8 @@
       "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/371660/header.jpg?t=1772640435",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/371660.zip"
-      ]
+      ],
+      "allowedRoles": "shadow, soldier"
     },
     {
       "name": "Far Cry 6",
@@ -171,7 +184,8 @@
       "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2369390/header.jpg?t=1758656170",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/2369390.zip"
-      ]
+      ],
+      "allowedRoles": "shadow, soldier"
     },
     {
       "name": "Far Cry 4",
@@ -179,7 +193,8 @@
       "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298110/header.jpg?t=1778697412",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/298110.zip"
-      ]
+      ],
+      "allowedRoles": "shadow, soldier"
     },
     {
       "name": "Far Cry® 3",
@@ -187,7 +202,8 @@
       "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/220240/header.jpg?t=1752169206",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/220240.zip"
-      ]
+      ],
+      "allowedRoles": "shadow, soldier"
     },
     {
       "name": "Far Cry® 3 Blood Dragon",
@@ -195,7 +211,8 @@
       "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233270/header.jpg?t=1752169303",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/233270.zip"
-      ]
+      ],
+      "allowedRoles": "shadow, soldier"
     },
     {
       "name": "Far Cry 2",
@@ -203,7 +220,8 @@
       "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/19900/header.jpg?t=1709317476",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/19900.zip"
-      ]
+      ],
+      "allowedRoles": "shadow, soldier"
     },
     {
       "name": "Far Cry",
@@ -211,7 +229,8 @@
       "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/13520/header.jpg?t=1602602361",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/13520.zip"
-      ]
+      ],
+      "allowedRoles": "shadow, soldier"
     },
     {
       "name": "Forza Horizon 6",
@@ -228,7 +247,8 @@
       "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/header.jpg?t=1765387725",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/271590.zip"
-      ]
+      ],
+      "allowedRoles": "shadow, soldier"
     },
     {
       "name": "Grand Theft Auto V Enhanced",
@@ -236,7 +256,8 @@
       "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1765479644",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/3240220.zip"
-      ]
+      ],
+      "allowedRoles": "shadow, soldier"
     },
     {
       "name": "Grand Theft Auto IV: The Complete Edition",
@@ -244,7 +265,8 @@
       "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12210/header.jpg?t=1721061564",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/12210.zip"
-      ]
+      ],
+      "allowedRoles": "shadow, soldier"
     },
     {
       "name": "Grand Theft Auto: San Andreas – The Definitive Edition",
@@ -252,7 +274,8 @@
       "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1547000/header.jpg?t=1741117455",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/1547000.zip"
-      ]
+      ],
+      "allowedRoles": "shadow, soldier"
     },
     {
       "name": "Grand Theft Auto: San Andreas",
@@ -260,7 +283,8 @@
       "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12120/header.jpg?t=1634144450",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/12120.zip"
-      ]
+      ],
+      "allowedRoles": "shadow, soldier"
     },
     {
       "name": "Grand Theft Auto: Vice City - The Definitive Edition",
@@ -268,7 +292,8 @@
       "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1546990/header.jpg?t=1741117543",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/1546990.zip"
-      ]
+      ],
+      "allowedRoles": "shadow, soldier"
     },
     {
       "name": "Grand Theft Auto: Vice City",
@@ -276,7 +301,8 @@
       "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12110/header.jpg?t=1634144465",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/12110.zip"
-      ]
+      ],
+      "allowedRoles": "shadow, soldier"
     },
     {
       "name": "Grand Theft Auto III - The Definitive Edition",
@@ -284,7 +310,8 @@
       "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1546970/header.jpg?t=1741117830",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/1546970.zip"
-      ]
+      ],
+      "allowedRoles": "shadow, soldier"
     },
     {
       "name": "Grand Theft Auto III",
@@ -292,7 +319,8 @@
       "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12100/header.jpg?t=1634144440",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/12100.zip"
-      ]
+      ],
+      "allowedRoles": "shadow, soldier"
     },
     {
       "name": "Mafia: The Old Country",
@@ -300,7 +328,8 @@
       "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1941540/d06980bb8f41737ca68da8eed40079347db09c84/header.jpg?t=1764177372",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/1941540.zip"
-      ]
+      ],
+      "allowedRoles": "shadow, soldier"
     },
     {
       "name": "Subnautica",
@@ -308,7 +337,8 @@
       "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/264710/header.jpg?t=1777456112",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/264710.zip"
-      ]
+      ],
+      "allowedRoles": "shadow, soldier"
     },
     {
       "name": "Subnautica 2",
@@ -316,7 +346,8 @@
       "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1962700/header.jpg?t=1779437128",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/1962700.zip"
-      ]
+      ],
+      "allowedRoles": "shadow, soldier"
     },
     {
       "name": "Pragmata",
@@ -333,7 +364,8 @@
       "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1811260/header.jpg?t=1750187458",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/1811260.zip"
-      ]
+      ],
+      "allowedRoles": "shadow, soldier"
     },
     {
       "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2",
@@ -341,7 +373,8 @@
       "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2928600/f8a7d046233fb84b20fc546c98b8e2d3f3439033/header.jpg?t=1776384111",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/2928600.zip"
-      ]
+      ],
+      "allowedRoles": "shadow, soldier"
     },
     {
       "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles",
@@ -349,7 +382,8 @@
       "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1490890/header.jpg?t=1762753763",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/1490890.zip"
-      ]
+      ],
+      "allowedRoles": "shadow, soldier"
     },
     {
       "name": "Stellar Blade™",
@@ -357,7 +391,8 @@
       "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3489700/header.jpg?t=1776466244",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/1490890.zip"
-      ]
+      ],
+      "allowedRoles": "shadow, soldier"
     },
     {
       "name": "Persona 5 Strikers",
@@ -365,7 +400,8 @@
       "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1382330/header.jpg?t=1763530465",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/1382330.zip"
-      ]
+      ],
+      "allowedRoles": "shadow, soldier"
     },
     {
       "name": "Watch_Dogs 2",
@@ -373,7 +409,8 @@
       "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/447040/header.jpg?t=1751986887",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/447040.zip"
-      ]
+      ],
+      "allowedRoles": "shadow, soldier"
       },
     {
       "name": "Resident Evil Requiem",
@@ -381,7 +418,8 @@
       "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3764200/ce5437442768e38eb575f205ab9397d0264017b0/header.jpg?t=1772587704",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/3764200.zip"
-      ]
+      ],
+      "allowedRoles": "shadow, soldier"
       },
     {
       "name": "Lies of P",
@@ -389,7 +427,8 @@
       "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1627720/header.jpg?t=1764565054",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/1627720.zip"
-      ]
+      ],
+      "allowedRoles": "shadow, soldier"
       },
     {
       "name": "Clair Obscur: Expedition 33",
@@ -397,7 +436,8 @@
       "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1903340/be3305b02d4db0dffa3458537118423bf2792d7e/header.jpg?t=1773676780",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/1903340.zip"
-      ]
+      ],
+      "allowedRoles": "shadow, soldier"
       },
     {
       "name": "ELDEN RING NIGHTREIGN",
@@ -405,7 +445,8 @@
       "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2622380/header.jpg?t=1773099036",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/2622380.zip"
-      ]
+      ],
+      "allowedRoles": "shadow, soldier"
       },
     {
       "name": "Far Cry 5",
@@ -413,7 +454,8 @@
       "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/552520/header.jpg?t=1762190084",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/552520.zip"
-      ]
+      ],
+      "allowedRoles": "shadow, soldier"
       },
     {
       "name": "Persona 4 Arena Ultimax",
@@ -421,7 +463,8 @@
       "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1602010/header.jpg?t=1763530579",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/1602010.zip"
-      ]
+      ],
+      "allowedRoles": "shadow, soldier"
       },
     {
       "name": "Resident Evil 0",
@@ -429,7 +472,8 @@
       "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/339340/header.jpg?t=1768953920",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/339340.zip"
-      ]
+      ],
+      "allowedRoles": "shadow, soldier"
       },
     {
       "name": "Resident Evil 2",
@@ -437,7 +481,8 @@
       "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/883710/header.jpg?t=1779433152",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/883710.zip"
-      ]
+      ],
+      "allowedRoles": "shadow, soldier"
       },
     {
       "name": "Resident Evil 3",
@@ -453,7 +498,8 @@
       "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/254700/header.jpg?t=1768960618",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/254700.zip"
-      ]
+      ],
+      "allowedRoles": "shadow, soldier"
       },
     {
       "name": "Resident Evil 4",
@@ -461,7 +507,8 @@
       "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2050650/header.jpg?t=1772502922",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/2050650.zip"
-      ]
+      ],
+      "allowedRoles": "shadow, soldier"
       },
     {
       "name": "Resident Evil 5",
@@ -469,7 +516,8 @@
       "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/21690/header.jpg?t=1768960574",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/21690.zip"
-      ]
+      ],
+      "allowedRoles": "shadow, soldier"
       },
     {
       "name": "Resident Evil 6",
@@ -477,7 +525,8 @@
       "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/221040/header.jpg?t=1768960676",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/221040.zip"
-      ]
+      ],
+      "allowedRoles": "shadow, soldier"
       },
     {
       "name": "Resident Evil 7 Biohazard",
@@ -485,7 +534,8 @@
       "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/418370/header.jpg?t=1778464947",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/418370.zip"
-      ]
+      ],
+      "allowedRoles": "shadow, soldier"
       },
     {
       "name": "Resident Evil Village",
@@ -493,7 +543,8 @@
       "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1196590/header.jpg?t=1776927117",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/1196590.zip"
-      ]
+      ],
+      "allowedRoles": "shadow, soldier"
       },
     {
       "name": "Watch_Dogs™",
@@ -501,7 +552,8 @@
       "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/243470/header.jpg?t=1739177057",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/243470.zip"
-      ]
+      ],
+      "allowedRoles": "shadow, soldier"
       },
     {
       "name": "Wallpaper Engine",
@@ -509,7 +561,8 @@
       "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/431960/header.jpg?t=1779452230",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/431960.zip"
-      ]
+      ],
+      "allowedRoles": "shadow, soldier"
       },
     {
       "name": "PRO EVOLUTION SOCCER 2018",
@@ -517,7 +570,8 @@
       "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/592580/header.jpg?t=1543425596",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/592580.zip"
-      ]
+      ],
+      "allowedRoles": "shadow, soldier"
     }
   ]
 }
