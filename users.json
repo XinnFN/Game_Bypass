@@ -42,6 +42,12 @@
     "role": "shadow"
   },
   {
+    "username": "manji",
+    "password": "manji1313",
+    "active": "true",
+    "role": "shadow"
+  },
+  {
     "username": "eartha",
     "password": "theain123",
     "active": "true",
