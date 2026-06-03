@@ -52,6 +52,20 @@
       ]
     },
     {
+      "name": "EA SPORTS FC 25",
+      "steamAppId": 2669320,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/EA.FC.25.rar"
+      ]
+    },
+    {
+      "name": "EA SPORTS FC 26",
+      "steamAppId": 3405690,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/EA.SPORTS.FC.26.rar"
+      ]
+    },
+    {
       "name": "Grand Theft Auto V Legacy",
       "steamAppId": 271590,
       "files": [
