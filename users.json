@@ -36,6 +36,13 @@
     "role": "shadow"
   },
   {
+    
+    "username": "ryzalpra",
+    "password": "Rhamadhan1",
+    "active": "true",
+    "role": "shadow"
+  },
+  {
     "username": "yukosatoru",
     "password": "yukok",
     "active": "false",
