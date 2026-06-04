@@ -38,6 +38,13 @@
       ]
     },
     {
+      "name": "FIFA 22",
+      "steamAppId": 1506830,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/FIFA.22.rar"
+      ]
+    },
+    {
       "name": "Grand Theft Auto V Enhanced",
       "steamAppId": 3240220,
       "files": [
