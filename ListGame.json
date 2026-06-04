@@ -7,7 +7,7 @@
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/2358720.zip"
       ],
-      "allowedRoles": "shadow, soldier"
+      "allowedRoles": "shadow, Echo, soldier"
     },
     {
       "name": "SILENT HILL f",
@@ -16,7 +16,7 @@
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/2947440.zip"
       ],
-      "allowedRoles": "soldier"
+      "allowedRoles": "shadow, Echo, soldier"
     },
     {
       "name": "Phasmophobia",
@@ -35,7 +35,7 @@
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/3551340.zip"
       ],
-      "allowedRoles": "shadow, soldier"
+     "allowedRoles": "shadow, Echo, soldier"
     },
     {
       "name": "007 First Light",
@@ -45,7 +45,7 @@
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/3768760.zip"
       ],
-      "allowedRoles": "shadow, soldier"
+      "allowedRoles": "shadow, Echo, soldier"
     },
     {
       "name": "Red Dead Redemption",
@@ -54,7 +54,7 @@
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/2668510.zip"
       ],
-      "allowedRoles": "shadow, soldier"
+      "allowedRoles": "shadow, Echo, soldier"
     },
     {
       "name": "FIFA 22",
@@ -63,7 +63,7 @@
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/1506830.zip"
       ],
-      "allowedRoles": "shadow, soldier"
+      "allowedRoles": "shadow, Echo, soldier"
     },
     {
       "name": "Green Hell",
@@ -72,7 +72,7 @@
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/815370.zip"
       ],
-      "allowedRoles": "shadow, soldier"
+      "allowedRoles": "shadow, Echo, soldier"
     },
     {
       "name": "Ghost of Tsushima DIRECTOR'S CUT",
@@ -81,7 +81,7 @@
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/2215430.zip"
       ],
-      "allowedRoles": "shadow, soldier"
+      "allowedRoles": "shadow, Echo, soldier"
     },
     {
       "name": "EA SPORTS FC™ 25",
@@ -101,7 +101,7 @@
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/3405690.zip"
       ],
-      "allowedRoles": "shadow, soldier"
+      "allowedRoles": "shadow, Echo, soldier"
     },
     {
       "name": "Planet Zoo",
@@ -111,7 +111,7 @@
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/703080.zip"
       ],
-      "allowedRoles": "shadow, soldier"
+      "allowedRoles": "shadow, Echo, soldier"
     },
     {
       "name": "Red Dead Redemption 2",
@@ -120,7 +120,7 @@
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/1174180.zip"
       ],
-      "allowedRoles": "shadow, soldier"
+      "allowedRoles": "shadow, Echo, soldier"
     },
     {
       "name": "Yunyun Syndrome!? Rhythm Psychosis",
@@ -128,7 +128,8 @@
       "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2914150/b58ce7618c376997fa067ab78906652f1d62d995/header.jpg?t=1777264751",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/2914150.zip"
-      ]
+      ],
+      "allowedRoles": "shadow, Echo, soldier"
     },
     {
       "name": "R.E.P.O.",
@@ -137,7 +138,7 @@
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/3241660.zip"
       ],
-      "allowedRoles": "shadow, soldier"
+      "allowedRoles": "shadow, Echo, soldier"
     },
     {
       "name": "The Witcher: Enhanced Edition",
@@ -146,7 +147,7 @@
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/20900.zip"
       ],
-      "allowedRoles": "shadow, soldier"
+      "allowedRoles": "shadow, Echo, soldier"
     },
     {
       "name": "The Witcher: Enhanced Edition",
@@ -155,7 +156,7 @@
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/20900.zip"
       ],
-      "allowedRoles": "shadow, soldier"
+      "allowedRoles": "shadow, Echo, soldier"
     },
     {
       "name": "TEKKEN 7",
@@ -164,7 +165,7 @@
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/389730.zip"
       ],
-      "allowedRoles": "shadow, soldier"
+      "allowedRoles": "shadow, Echo, soldier"
     },
     {
       "name": "TEKKEN 8",
@@ -173,7 +174,7 @@
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/1778820.zip"
       ],
-      "allowedRoles": "shadow, soldier"
+      "allowedRoles": "shadow, Echo, soldier"
     },
     {
       "name": "The Witcher 3: Wild Hunt",
@@ -182,7 +183,7 @@
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/292030.zip"
       ],
-      "allowedRoles": "shadow, soldier"
+      "allowedRoles": "shadow, Echo, soldier"
     },
     {
       "name": "LEGO® Batman™: Legacy of the Dark Knight",
@@ -191,7 +192,7 @@
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/2215200.zip"
       ],
-      "allowedRoles": "soldier"
+     "allowedRoles": "shadow, Echo, soldier"
     },
     {
       "name": "Outer Wilds",
@@ -200,7 +201,7 @@
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/753640.zip"
       ],
-      "allowedRoles": "shadow, soldier"
+      "allowedRoles": "shadow, Echo, soldier"
     },
     {
       "name": "Little Nightmares",
@@ -209,7 +210,7 @@
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/424840.zip"
       ],
-      "allowedRoles": "shadow, soldier"
+      "allowedRoles": "shadow, Echo, soldier"
     },
     {
       "name": "Little Nightmares II",
@@ -218,7 +219,7 @@
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/860510.zip"
       ],
-      "allowedRoles": "shadow, soldier"
+      "allowedRoles": "shadow, Echo, soldier"
     },
     {
       "name": "Little Nightmares III",
@@ -227,7 +228,7 @@
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/1392860.zip"
       ],
-      "allowedRoles": "shadow, soldier"
+      "allowedRoles": "shadow, Echo, soldier"
     },
     {
       "name": "Devil May Cry 5",
@@ -236,7 +237,7 @@
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/601150.zip"
       ],
-      "allowedRoles": "shadow, soldier"
+      "allowedRoles": "shadow, Echo, soldier"
     },
     {
       "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 3 Full Burst",
@@ -245,7 +246,7 @@
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/234670.zip"
       ],
-      "allowedRoles": "shadow, soldier"
+      "allowedRoles": "shadow, Echo, soldier"
     },
     {
       "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4",
@@ -254,7 +255,7 @@
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/349040.zip"
       ],
-      "allowedRoles": "shadow, soldier"
+      "allowedRoles": "shadow, Echo, soldier"
     },
     {
       "name": "DARK SOULS™: REMASTERED",
@@ -263,7 +264,7 @@
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/570940.zip"
       ],
-      "allowedRoles": "shadow, soldier"
+      "allowedRoles": "shadow, Echo, soldier"
     },
     {
       "name": "Persona 3 Reload",
@@ -273,7 +274,7 @@
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/2161700.zip"
       ],
-      "allowedRoles": "shadow, soldier"
+      "allowedRoles": "shadow, Echo, soldier"
     },
     {
       "name": "Far Cry New Dawn",
@@ -282,7 +283,7 @@
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/939960.zip"
       ],
-      "allowedRoles": "shadow, soldier"
+      "allowedRoles": "shadow, Echo, soldier"
     },
     {
       "name": "Far Cry Primal",
@@ -291,7 +292,7 @@
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/371660.zip"
       ],
-      "allowedRoles": "shadow, soldier"
+      "allowedRoles": "shadow, Echo, soldier"
     },
     {
       "name": "Far Cry 6",
@@ -300,7 +301,7 @@
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/2369390.zip"
       ],
-      "allowedRoles": "shadow, soldier"
+      "allowedRoles": "shadow, Echo, soldier"
     },
     {
       "name": "Far Cry 4",
@@ -309,7 +310,7 @@
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/298110.zip"
       ],
-      "allowedRoles": "shadow, soldier"
+      "allowedRoles": "shadow, Echo, soldier"
     },
     {
       "name": "Far Cry® 3",
@@ -318,7 +319,7 @@
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/220240.zip"
       ],
-      "allowedRoles": "shadow, soldier"
+      "allowedRoles": "shadow, Echo, soldier"
     },
     {
       "name": "Far Cry® 3 Blood Dragon",
@@ -327,7 +328,7 @@
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/233270.zip"
       ],
-      "allowedRoles": "shadow, soldier"
+      "allowedRoles": "shadow, Echo, soldier"
     },
     {
       "name": "Far Cry 2",
@@ -336,7 +337,7 @@
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/19900.zip"
       ],
-      "allowedRoles": "shadow, soldier"
+      "allowedRoles": "shadow, Echo, soldier"
     },
     {
       "name": "Far Cry",
@@ -345,7 +346,7 @@
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/13520.zip"
       ],
-      "allowedRoles": "shadow, soldier"
+      "allowedRoles": "shadow, Echo, soldier"
     },
     {
       "name": "Forza Horizon 6",
@@ -354,7 +355,7 @@
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/2483190.zip"
       ],
-      "allowedRoles": "soldier"
+      "allowedRoles": "shadow, Echo, soldier"
     },
     {
       "name": "Grand Theft Auto V Legacy",
@@ -363,7 +364,7 @@
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/271590.zip"
       ],
-      "allowedRoles": "shadow, soldier"
+      "allowedRoles": "shadow, Echo, soldier"
     },
     {
       "name": "Grand Theft Auto V Enhanced",
@@ -372,7 +373,7 @@
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/3240220.zip"
       ],
-      "allowedRoles": "shadow, soldier"
+      "allowedRoles": "shadow, Echo, soldier"
     },
     {
       "name": "Grand Theft Auto IV: The Complete Edition",
@@ -381,7 +382,7 @@
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/12210.zip"
       ],
-      "allowedRoles": "shadow, soldier"
+      "allowedRoles": "shadow, Echo, soldier"
     },
     {
       "name": "Grand Theft Auto: San Andreas – The Definitive Edition",
@@ -390,7 +391,7 @@
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/1547000.zip"
       ],
-      "allowedRoles": "shadow, soldier"
+      "allowedRoles": "shadow, Echo, soldier"
     },
     {
       "name": "Grand Theft Auto: San Andreas",
@@ -399,7 +400,7 @@
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/12120.zip"
       ],
-      "allowedRoles": "shadow, soldier"
+      "allowedRoles": "shadow, Echo, soldier"
     },
     {
       "name": "Grand Theft Auto: Vice City - The Definitive Edition",
@@ -408,7 +409,7 @@
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/1546990.zip"
       ],
-      "allowedRoles": "shadow, soldier"
+      "allowedRoles": "shadow, Echo, soldier"
     },
     {
       "name": "Grand Theft Auto: Vice City",
@@ -417,7 +418,7 @@
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/12110.zip"
       ],
-      "allowedRoles": "shadow, soldier"
+      "allowedRoles": "shadow, Echo, soldier"
     },
     {
       "name": "Grand Theft Auto III - The Definitive Edition",
@@ -426,7 +427,7 @@
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/1546970.zip"
       ],
-      "allowedRoles": "shadow, soldier"
+      "allowedRoles": "shadow, Echo, soldier"
     },
     {
       "name": "Grand Theft Auto III",
@@ -435,7 +436,7 @@
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/12100.zip"
       ],
-      "allowedRoles": "shadow, soldier"
+      "allowedRoles": "shadow, Echo, soldier"
     },
     {
       "name": "Mafia: The Old Country",
@@ -444,7 +445,7 @@
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/1941540.zip"
       ],
-      "allowedRoles": "shadow, soldier"
+      "allowedRoles": "shadow, Echo, soldier"
     },
     {
       "name": "Subnautica",
@@ -453,7 +454,7 @@
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/264710.zip"
       ],
-      "allowedRoles": "shadow, soldier"
+      "allowedRoles": "shadow, Echo, soldier"
     },
     {
       "name": "Subnautica 2",
@@ -462,7 +463,7 @@
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/1962700.zip"
       ],
-      "allowedRoles": "shadow, soldier"
+      "allowedRoles": "shadow, Echo, soldier"
     },
     {
       "name": "Pragmata",
@@ -471,7 +472,7 @@
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/3357650.zip"
       ],
-      "allowedRoles": "soldier"
+      "allowedRoles": "shadow, Echo, soldier"
     },
     {
       "name": "EA SPORTS™ FIFA 23",
@@ -480,7 +481,7 @@
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/1811260.zip"
       ],
-      "allowedRoles": "shadow, soldier"
+      "allowedRoles": "shadow, Echo, soldier"
     },
     {
       "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2",
@@ -490,7 +491,7 @@
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/2928600.zip"
       ],
-      "allowedRoles": "shadow, soldier"
+      "allowedRoles": "shadow, Echo, soldier"
     },
     {
       "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles",
@@ -500,7 +501,7 @@
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/1490890.zip"
       ],
-      "allowedRoles": "shadow, soldier"
+      "allowedRoles": "shadow, Echo, soldier"
     },
     {
       "name": "Stellar Blade™",
@@ -509,7 +510,7 @@
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/1490890.zip"
       ],
-      "allowedRoles": "shadow, soldier"
+      "allowedRoles": "shadow, Echo, soldier"
     },
     {
       "name": "Persona 5 Strikers",
@@ -519,7 +520,7 @@
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/1382330.zip"
       ],
-      "allowedRoles": "shadow, soldier"
+      "allowedRoles": "shadow, Echo, soldier"
     },
     {
       "name": "Watch_Dogs 2",
@@ -528,7 +529,7 @@
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/447040.zip"
       ],
-      "allowedRoles": "shadow, soldier"
+      "allowedRoles": "shadow, Echo, soldier"
       },
     {
       "name": "Resident Evil Requiem",
@@ -537,7 +538,7 @@
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/3764200.zip"
       ],
-      "allowedRoles": "shadow, soldier"
+      "allowedRoles": "shadow, Echo, soldier"
       },
     {
       "name": "Lies of P",
@@ -546,7 +547,7 @@
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/1627720.zip"
       ],
-      "allowedRoles": "shadow, soldier"
+      "allowedRoles": "shadow, Echo, soldier"
       },
     {
       "name": "Clair Obscur: Expedition 33",
@@ -555,7 +556,7 @@
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/1903340.zip"
       ],
-      "allowedRoles": "shadow, soldier"
+      "allowedRoles": "shadow, Echo, soldier"
       },
     {
       "name": "ELDEN RING NIGHTREIGN",
@@ -564,7 +565,7 @@
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/2622380.zip"
       ],
-      "allowedRoles": "shadow, soldier"
+      "allowedRoles": "shadow, Echo, soldier"
       },
     {
       "name": "Far Cry 5",
@@ -573,7 +574,7 @@
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/552520.zip"
       ],
-      "allowedRoles": "shadow, soldier"
+      "allowedRoles": "shadow, Echo, soldier"
       },
     {
       "name": "Persona 4 Arena Ultimax",
@@ -583,7 +584,7 @@
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/1602010.zip"
       ],
-      "allowedRoles": "shadow, soldier"
+      "allowedRoles": "shadow, Echo, soldier"
       },
     {
       "name": "Resident Evil 0",
@@ -592,7 +593,7 @@
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/339340.zip"
       ],
-      "allowedRoles": "shadow, soldier"
+      "allowedRoles": "shadow, Echo, soldier"
       },
     {
       "name": "Resident Evil 2",
@@ -601,7 +602,7 @@
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/883710.zip"
       ],
-      "allowedRoles": "shadow, soldier"
+      "allowedRoles": "shadow, Echo, soldier"
       },
     {
       "name": "Resident Evil 3",
@@ -618,7 +619,7 @@
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/254700.zip"
       ],
-      "allowedRoles": "shadow, soldier"
+      "allowedRoles": "shadow, Echo, soldier"
       },
     {
       "name": "Resident Evil 4",
@@ -627,7 +628,7 @@
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/2050650.zip"
       ],
-      "allowedRoles": "shadow, soldier"
+      "allowedRoles": "shadow, Echo, soldier"
       },
     {
       "name": "Resident Evil 5",
@@ -636,7 +637,7 @@
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/21690.zip"
       ],
-      "allowedRoles": "shadow, soldier"
+      "allowedRoles": "shadow, Echo, soldier"
       },
     {
       "name": "Resident Evil 6",
@@ -645,7 +646,7 @@
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/221040.zip"
       ],
-      "allowedRoles": "shadow, soldier"
+      "allowedRoles": "shadow, Echo, soldier"
       },
     {
       "name": "Resident Evil 7 Biohazard",
@@ -654,7 +655,7 @@
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/418370.zip"
       ],
-      "allowedRoles": "shadow, soldier"
+      "allowedRoles": "shadow, Echo, soldier"
       },
     {
       "name": "Resident Evil Village",
@@ -663,7 +664,7 @@
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/1196590.zip"
       ],
-      "allowedRoles": "shadow, soldier"
+      "allowedRoles": "shadow, Echo, soldier"
       },
     {
       "name": "Watch_Dogs™",
@@ -672,7 +673,7 @@
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/243470.zip"
       ],
-      "allowedRoles": "shadow, soldier"
+      "allowedRoles": "shadow, Echo, soldier"
       },
     {
       "name": "Wallpaper Engine",
@@ -681,7 +682,7 @@
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/431960.zip"
       ],
-      "allowedRoles": "shadow, soldier"
+      "allowedRoles": "shadow, Echo, soldier"
       },
     {
       "name": "PRO EVOLUTION SOCCER 2018",
@@ -690,7 +691,7 @@
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/592580.zip"
       ],
-      "allowedRoles": "shadow, soldier"
+      "allowedRoles": "shadow, Echo, soldier"
     }
   ]
 }
