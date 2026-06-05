@@ -22,7 +22,7 @@
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/PRAGMATA.rar"
       ],
-      "allowedRoles": "soldier"
+      "allowedRoles": "shadow, Echo, soldier"
     },
     {
       "name": "Phasmophobia",
@@ -30,76 +30,87 @@
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Phasmophobia.rar"
       ],
+      "allowedRoles": "shadow, Echo, soldier"
     },
     {
       "name": "EA SPORTS™ FIFA 23",
       "steamAppId": 1811260,
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/EA.SPORTS.FIFA.23.rar"
-      ]
+      ],
+      "allowedRoles": "shadow, Echo, soldier"
     },
     {
       "name": "CODE VEIN",
       "steamAppId": 678960,
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/CODE.VEIN.rar"
-      ]
+      ],
+      "allowedRoles": "shadow, Echo, soldier"
     },
     {
       "name": "FIFA 22",
       "steamAppId": 1506830,
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/FIFA.22.rar"
-      ]
+      ],
+      "allowedRoles": "shadow, Echo, soldier"
     },
     {
       "name": "Grand Theft Auto V Enhanced",
       "steamAppId": 3240220,
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Grand.Theft.Auto.Enhanced.rar"
-      ]
+      ],
+      "allowedRoles": "shadow, Echo, soldier"
     },
     {
       "name": "R.E.P.O.",
       "steamAppId": 3241660,
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/R.E.P.O.rar"
-      ]
+      ],
+      "allowedRoles": "shadow, Echo, soldier"
     },
     {
       "name": "EA SPORTS FC 25",
       "steamAppId": 2669320,
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/EA.FC.25.rar"
-      ]
+      ],
+      "allowedRoles": "Echo, soldier"
     },
     {
       "name": "EA SPORTS FC 26",
       "steamAppId": 3405690,
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/EA.SPORTS.FC.26.rar"
-      ]
+      ],
+      "allowedRoles": "Echo, soldier"
     },
     {
       "name": "Grand Theft Auto V Legacy",
       "steamAppId": 271590,
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Grand.Theft.Auto.V.Legacy.rar"
-      ]
+      ],
+      "allowedRoles": "shadow, Echo, soldier"
     },
     {
       "name": "Grand Theft Auto IV: The Complete Edition",
       "steamAppId": 12210,
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Grand.Theft.Auto.IV.rar"
-      ]
+      ],
+      "allowedRoles": "shadow, Echo, soldier"
     },
     {
       "name": "Grand Theft Auto: San Andreas - The Definitive Edition",
       "steamAppId": 1547000,
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/San.Andreas.-.The.Definitive.Edition.rar"
-      ]
+      ],
+      "allowedRoles": "shadow, Echo, soldier"
     },
     {
       "name": "Grand Theft Auto: Vice City - The Definitive Edition",
@@ -113,28 +124,32 @@
       "steamAppId": 1546970,
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Grand.Theft.Auto.III.Definitive.Edition.rar"
-      ]
+      ],
+      "allowedRoles": "shadow, Echo, soldier"
     },
     {
       "name": "Far Cry New Dawn",
       "steamAppId": 939960,
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Far.Cry.New.Dawn.rar"
-      ]
+      ],
+      "allowedRoles": "shadow, Echo, soldier"
     },
     {
       "name": "Far Cry Primal",
       "steamAppId": 371660,
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Far.Cry.Primal.rar"
-      ]
+      ],
+      "allowedRoles": "shadow, Echo, soldier"
     },
     {
       "name": "Far Cry 6",
       "steamAppId": 2369390,
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Far.Cry.6.rar"
-      ]
+      ],
+      "allowedRoles": "shadow, Echo, soldier"
     },
     {
       "name": "Far Cry 5",
@@ -148,63 +163,72 @@
       "steamAppId": 298110,
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Far.Cry.4.rar"
-      ]
+      ],
+      "allowedRoles": "shadow, Echo, soldier"
     },
     {
       "name": "Far Cry® 3",
       "steamAppId": 220240,
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Far.Cry.3.rar"
-      ]
+      ],
+      "allowedRoles": "shadow, Echo, soldier"
     },
     {
       "name": "Mafia: The Old Country",
       "steamAppId": 1941540,
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Mafia.The.Old.Country.rar"
-      ]
+      ],
+      "allowedRoles": "shadow, Echo, soldier"
     },
     {
       "name": "Red Dead Redemption 2",
       "steamAppId": 1174180,
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Red.Dead.Redempion.2.rar"
-      ]
+      ],
+      "allowedRoles": "shadow, Echo, soldier"
     },
     {
       "name": "Resident Evil Requiem",
       "steamAppId": 3764200,
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/RE.9.rar"
-      ]
+      ],
+      "allowedRoles": "shadow, Echo, soldier"
     },
     {
       "name": "Stellar Blade™",
       "steamAppId": 3489700,
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/StellarBlade.rar"
-      ]
+      ],
+      "allowedRoles": "shadow, Echo, soldier"
     },
     {
       "name": "Subnautica 2",
       "steamAppId": 1962700,
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Subnatica.2.OnFix.rar"
-      ]
+      ],
+      "allowedRoles": "shadow, Echo, soldier"
     },
     {
       "name": "Watch_Dogs",
       "steamAppId": 243470,
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Watch.Dogs.FIX.rar"
-      ]
+      ],
+      "allowedRoles": "shadow, Echo, soldier"
     },
     {
       "name": "Watch_Dogs 2",
       "steamAppId": 447040,
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Watch.Dogs.2.rar"
-      ]
+      ],
+      "allowedRoles": "shadow, Echo, soldier"
     }
   ]
 }
