@@ -5,7 +5,8 @@
       "steamAppId": 2358720,
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Black.Myth.Wukong.rar"
-      ]
+      ],
+      "allowdRoles": "shadow, Echo, soldier"
     },
     {
        "name": "LEGO® Batman™: Legacy of the Dark Knight",
@@ -13,7 +14,7 @@
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/LEGO.Batman.Legacy.of.the.Dark.Knight.rar"
       ],
-      "allowedRoles": "soldier"
+      "allowedRoles": "shadow, Echo, soldier"
     },
     {
       "name": "Pragmata",
