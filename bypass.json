@@ -25,6 +25,14 @@
       "allowedRoles": "shadow, Echo, soldier"
     },
     {
+      "name": "Among Us",
+      "steamAppId": 945360,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Among.UsON.rar"
+      ],
+      "allowedRoles": "shadow, Echo, soldier"
+    },
+    {
       "name": "Phasmophobia",
       "steamAppId": 739630,
       "files": [
