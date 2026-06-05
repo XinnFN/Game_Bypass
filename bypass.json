@@ -117,7 +117,8 @@
       "steamAppId": 1546990,
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Grand.Theft.Auto.Vice.City.Definitive.Edition.rar"
-      ]
+      ],
+      "allowedRoles": "shadow, Echo, soldier"
     },
     {
       "name": "Grand Theft Auto III - The Definitive Edition",
@@ -156,7 +157,8 @@
       "steamAppId": 552520,
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Far.Cry.5.rar"
-      ]
+      ],
+      "allowedRoles": "shadow, Echo, soldier"
     },
     {
       "name": "Far Cry 4",
