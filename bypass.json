@@ -33,6 +33,14 @@
       "allowedRoles": "shadow, Echo, soldier"
     },
     {
+      "name": "Among Us 3D",
+      "steamAppId": 3168600,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/AU3D.rar"
+      ],
+      "allowedRoles": "shadow, Echo, soldier"
+    },
+    {
       "name": "Phasmophobia",
       "steamAppId": 739630,
       "files": [
