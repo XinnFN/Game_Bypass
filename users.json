@@ -30,6 +30,12 @@
     "role": "shadow"
   },
   {
+    "username": "pisangkeju",
+    "password": "enak123",
+    "active": "true",
+    "role": "shadow"
+  },
+  {
     "username": "lroat",
     "password": "lroat911",
     "active": "true",
