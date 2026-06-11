@@ -24,6 +24,12 @@
     "role": "shadow"
   },
   {
+    "username": "kniy",
+    "password": "kniy123",
+    "active": "true",
+    "role": "shadow"
+  },
+  {
     "username": "wingskrtt",
     "password": "dcbrazil",
     "active": "true",
