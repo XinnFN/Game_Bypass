@@ -216,6 +216,66 @@
     "role": "Echo"
   },
   {
+    "username": "HG-USER01",
+    "password": "hguser10",
+    "active": "true",
+    "role": "Echo"
+  },
+  {
+    "username": "HG-USER02",
+    "password": "hguser12",
+    "active": "true",
+    "role": "Echo"
+  },
+  {
+    "username": "HG-USER03",
+    "password": "hguser32",
+    "active": "true",
+    "role": "Echo"
+  },
+  {
+    "username": "HG-USER04",
+    "password": "hguser34",
+    "active": "true",
+    "role": "Echo"
+  },
+  {
+    "username": "HG-USER05",
+    "password": "hguser54",
+    "active": "true",
+    "role": "Echo"
+  },
+  {
+    "username": "HG-USER06",
+    "password": "hguser45",
+    "active": "true",
+    "role": "Echo"
+  },
+  {
+    "username": "HG-USER07",
+    "password": "hguser77",
+    "active": "true",
+    "role": "Echo"
+  },
+  {
+    "username": "HG-USER08",
+    "password": "hguser89",
+    "active": "true",
+    "role": "Echo"
+  },
+  {
+    "username": "HG-USER09",
+    "password": "hguser98",
+    "active": "true",
+    "role": "Echo"
+  },
+  {
+    "username": "HG-USER10",
+    "password": "hguser00",
+    "active": "true",
+    "role": "Echo"
+  },
+  {
     "username": "justKal",
     "password": "justkal67",
     "active": "true",
