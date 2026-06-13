@@ -33,6 +33,14 @@
       "allowedRoles": "shadow, Echo, soldier"
     },
     {
+      "name": "MECCHA CHAMELEON",
+      "steamAppId": 4704690,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/MecchaChameleon.rar"
+      ],
+      "allowedRoles": "shadow, Echo, soldier"
+    },
+    {
       "name": "Among Us",
       "steamAppId": 945360,
       "files": [
