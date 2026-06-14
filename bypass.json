@@ -41,6 +41,22 @@
       "allowedRoles": "shadow, Echo, soldier"
     },
     {
+      "name": "eFootball PES 2020",
+      "steamAppId": 996470,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/E.Football.PES.2020.rar"
+      ],
+      "allowedRoles": "shadow, Echo, soldier"
+    },
+    {
+      "name": "eFootball PES 2021 SEASON UPDATE",
+      "steamAppId": 1259970,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Pes2021.rar"
+      ],
+      "allowedRoles": "shadow, Echo, soldier"
+    },
+    {
       "name": "Among Us",
       "steamAppId": 945360,
       "files": [
