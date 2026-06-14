@@ -46,11 +46,29 @@
       "allowedRoles": "shadow, Echo, soldier"
     },
     {
-      "name": "Hogwarts Legacy",
-      "steamAppId": 990080,
-      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/990080/a3cdc6f40d97df8ac993679c2dd1edeb5222421e/header.jpg?t=1778797474",
+      "name": "MECCHA CHAMELEON",
+      "steamAppId": 3168600,
+      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4704690/163e2a742e5fb8e1f5d1e3a890da98f04ab809d4/header.jpg?t=1781108224",
       "files": [
-        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/990080.zip"
+        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/4704690.zip"
+      ],
+      "allowedRoles": "shadow, Echo, soldier"
+    },
+    {
+      "name": "eFootball PES 2020",
+      "steamAppId": 996470,
+      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/996470/header.jpg?t=1606348937",
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/996470.zip"
+      ],
+      "allowedRoles": "shadow, Echo, soldier"
+    },
+    {
+      "name": "eFootball PES 2021 SEASON UPDATE",
+      "steamAppId": 1259970,
+      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1259970/header.jpg?t=1639008061",
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/1259970.zip"
       ],
       "allowedRoles": "shadow, Echo, soldier"
     },
