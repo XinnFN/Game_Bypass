@@ -78,6 +78,12 @@
     "role": "shadow"
   },
   {
+    "username": "rein",
+    "password": "rein123",
+    "active": "true",
+    "role": "shadow"
+  },
+  {
     "username": "zafran81",
     "password": "ganteng",
     "active": "true",
