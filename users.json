@@ -48,6 +48,12 @@
     "role": "shadow"
   },
   {
+    "username": "sdyt112",
+    "password": "sdyt123",
+    "active": "true",
+    "role": "shadow"
+  },
+  {
     "username": "ansh",
     "password": "ansh123",
     "active": "true",
