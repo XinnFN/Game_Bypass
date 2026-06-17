@@ -39,11 +39,17 @@
     "username": "aal111",
     "password": "aal1231",
     "active": "true",
-    "role": "Echo"
+    "role": "shadow"
   },
   {
     "username": "hllfi",
     "password": "hllfi123",
+    "active": "true",
+    "role": "shadow"
+  },
+  {
+    "username": "ilvever",
+    "password": "28122812",
     "active": "true",
     "role": "shadow"
   },
