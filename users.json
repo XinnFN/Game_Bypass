@@ -36,6 +36,12 @@
     "role": "Echo"
   },
   {
+    "username": "aal111",
+    "password": "aal1231",
+    "active": "true",
+    "role": "Echo"
+  },
+  {
     "username": "hllfi",
     "password": "hllfi123",
     "active": "true",
