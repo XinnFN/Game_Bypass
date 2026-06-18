@@ -42,6 +42,12 @@
     "role": "shadow"
   },
   {
+    "username": "egi11",
+    "password": "egi23",
+    "active": "true",
+    "role": "shadow"
+  },
+  {
     "username": "hllfi",
     "password": "hllfi123",
     "active": "true",
