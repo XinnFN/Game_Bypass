@@ -25,6 +25,14 @@
       "allowedRoles": "shadow, Echo, soldier"
     },
     {
+      "name": "Assassin's Creed Valhalla",
+      "steamAppId": 2208920,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Assassin.s.Creed.Valhalla.rar"
+      ],
+      "allowedRoles": "shadow, Echo, soldier"
+    },
+    {
       "name": "Solo Leveling: ARISE OVERDRIVE",
       "steamAppId": 2373990,
       "files": [
