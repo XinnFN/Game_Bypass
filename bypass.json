@@ -9,10 +9,18 @@
       "allowdRoles": "shadow, Echo, soldier"
     },
     {
-       "name": "007 First Light",
+      "name": "007 First Light",
       "steamAppId": 3768760,
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/007.First.Light.rar"
+      ],
+      "allowedRoles": "shadow, Echo, soldier"
+    },
+    {
+      "name": "Assassin's Creed IV Black Flag",
+      "steamAppId": 242050,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Assassin.s.Creed.IV.Black.Flag.rar"
       ],
       "allowedRoles": "shadow, Echo, soldier"
     },
