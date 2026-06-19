@@ -25,6 +25,14 @@
       "allowedRoles": "shadow, Echo, soldier"
     },
     {
+      "name": "Solo Leveling: ARISE OVERDRIVE",
+      "steamAppId": 2373990,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Solo.Leveling.ARISE.OVERDRIVE.rar"
+      ],
+      "allowedRoles": "shadow, Echo, soldier"
+    },
+    {
       "name": "LEGO® Batman™: Legacy of the Dark Knight",
       "steamAppId": 2215200,
       "files": [
