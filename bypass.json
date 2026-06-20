@@ -121,6 +121,7 @@
       ],
       "allowedRoles": "shadow, Echo, soldier"
     },
+    {
       "name": "Phasmophobia",
       "steamAppId": 739630,
       "files": [
