@@ -114,6 +114,13 @@
       "allowedRoles": "shadow, Echo, soldier"
     },
     {
+      "name": "Raft",
+      "steamAppId": 648800,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Raft.rar"
+      ],
+      "allowedRoles": "shadow, Echo, soldier"
+    },
       "name": "Phasmophobia",
       "steamAppId": 739630,
       "files": [
