@@ -84,6 +84,12 @@
     "role": "shadow"
   },
   {
+    "username": "zaidan",
+    "password": "zaidan123",
+    "active": "true",
+    "role": "shadow"
+  },
+  {
     "username": "lroat",
     "password": "lroat911",
     "active": "true",
