@@ -48,6 +48,12 @@
     "role": "shadow"
   },
   {
+   "username": "Game 234568",
+    "password": "MNB",
+    "active": "true",
+    "role": "shadow"
+  },
+  {
     "username": "hllfi",
     "password": "hllfi123",
     "active": "true",
