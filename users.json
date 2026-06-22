@@ -60,6 +60,12 @@
     "role": "shadow"
   },
   {
+    "username": "Black1231",
+    "password": "12345678",
+    "active": "true",
+    "role": "shadow"
+  },
+  {
     "username": "ilvever",
     "password": "28122812",
     "active": "true",
