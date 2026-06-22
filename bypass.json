@@ -57,6 +57,14 @@
       "allowedRoles": "shadow, Echo, soldier"
     },
     {
+      "name": "Call of Duty®: Modern Warfare® II",
+      "steamAppId": 3595230,
+      "files": [
+        "https://pixeldrain.com/api/file/6o4AD5zu?download"
+      ],
+      "allowedRoles": "shadow, Echo, soldier"
+    },
+    {
       "name": "Pragmata",
       "steamAppId": 3357650,
       "files": [
