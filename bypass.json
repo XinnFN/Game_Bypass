@@ -49,6 +49,14 @@
       "allowedRoles": "shadow, Echo, soldier"
     },
     {
+      "name": "Call of Duty®: Modern Warfare® 3 (2011)",
+      "steamAppId": 42680,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Call.of.Duty.Modern.Warfare.3.rar"
+      ],
+      "allowedRoles": "shadow, Echo, soldier"
+    },
+    {
       "name": "Pragmata",
       "steamAppId": 3357650,
       "files": [
