@@ -65,10 +65,18 @@
       "allowedRoles": "shadow, Echo, soldier"
     },
     {
-      "name": "Call of Duty: WWII",
+      "name": "Call of Duty: WW2",
       "steamAppId": 476600,
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Call.Of.Duty.ww2.rar"
+      ],
+      "allowedRoles": "shadow, Echo, soldier"
+    },
+    {
+      "name": "Call of Duty: WWII",
+      "steamAppId": 476600,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Call.of.Duty.Modern.Warfare.II.rar"
       ],
       "allowedRoles": "shadow, Echo, soldier"
     },
