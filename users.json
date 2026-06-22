@@ -42,6 +42,12 @@
     "role": "shadow"
   },
   {
+    "username": "keko",
+    "password": "keko123",
+    "active": "true",
+    "role": "shadow"
+  },
+  {
     "username": "egi11",
     "password": "egi23",
     "active": "true",
