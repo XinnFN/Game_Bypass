@@ -36,6 +36,12 @@
     "role": "Echo"
   },
   {
+    "username": "ucupp11",
+    "password": "ucup1123",
+    "active": "true",
+    "role": "shadow"
+  },
+  {
     "username": "aal111",
     "password": "aal1231",
     "active": "true",
