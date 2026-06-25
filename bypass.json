@@ -124,7 +124,15 @@
       "name": "Raft",
       "steamAppId": 648800,
       "files": [
-        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Raft.rarr"
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Raft.rar"
+      ],
+      "allowedRoles": "shadow, Echo, soldier"
+    },
+    {
+      "name": "Hogwarts Legacy",
+      "steamAppId": 990080,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Hogwarts.Legacy.zip"
       ],
       "allowedRoles": "shadow, Echo, soldier"
     },
