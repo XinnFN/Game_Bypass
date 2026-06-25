@@ -89,30 +89,6 @@
       "allowedRoles": "shadow, Echo, soldier"
     },
     {
-      "name": "Call of Duty: WWII",
-      "steamAppId": 3595230,
-      "files": [
-        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Call.of.Duty.Modern.Warfare.II.rar"
-      ],
-      "allowedRoles": "shadow, Echo, soldier"
-    },
-    {
-      "name": "Call Of Duty Modern Warfare 2 (2009)",
-      "steamAppId": 10180,
-      "files": [
-        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Call.of.Duty.Modern.Warfare.2.rar"
-      ],
-      "allowedRoles": "shadow, Echo, soldier"
-    },
-    {
-      "name": "Call of Duty®: Modern Warfare® II",
-      "steamAppId": 3595230,
-      "files": [
-        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Call.of.Duty.Modern.Warfare.2.rar"
-      ],
-      "allowedRoles": "shadow, Echo, soldier"
-    },
-    {
       "name": "eFootball PES 2020",
       "steamAppId": 996470,
       "files": [
