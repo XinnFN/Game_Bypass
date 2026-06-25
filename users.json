@@ -374,7 +374,7 @@
   {
     "username": "HG-USER15",
     "password": "hguser56",
-    "active": "true",
+    "active": "false",
     "role": "Echo"
   },
   {
@@ -408,6 +408,12 @@
     "role": "Echo"
   },
   {  
+    "username": "HG-USER21",
+    "password": "hguser12",
+    "active": "true",
+    "role": "Echo"
+  },
+  {
     "username": "justKal",
     "password": "justkal67",
     "active": "true",
