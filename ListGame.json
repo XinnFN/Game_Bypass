@@ -46,6 +46,15 @@
       "allowedRoles": "shadow, Echo, soldier"
     },
     {
+      "name": "OPERATOR",
+      "steamAppId": 1913370,
+      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1913370/header.jpg?t=1780431318",
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/1913370.zip"
+      ],
+      "allowedRoles": "shadow, Echo, soldier"
+    },
+    {
       "name": "inZOI",
       "steamAppId": 2456740,
       "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2456740/89acee5c3d965af802002617d6c130e5e03bd240/header.jpg?t=1777449358",
