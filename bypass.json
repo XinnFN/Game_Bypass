@@ -33,6 +33,14 @@
       "allowedRoles": "shadow, Echo, soldier"
     },
     {
+      "name": "OPERATOR",
+      "steamAppId": 1913370,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/OPERATOR.rar"
+      ],
+      "allowedRoles": "shadow, Echo, soldier"
+    },
+    {
       "name": "Solo Leveling: ARISE OVERDRIVE",
       "steamAppId": 2373990,
       "files": [
