@@ -437,6 +437,12 @@
     "active": "true",
     "role": "shadow"
   },
+  { 
+    "username": "test",
+    "password": "test123",
+    "active": "true",
+    "role": "shadow"
+  },
   {  
     "username": "tester",
     "password": "tester123",
