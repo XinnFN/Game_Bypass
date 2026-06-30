@@ -426,6 +426,12 @@
     "role": "Echo"
   },
   {
+    "username": "HG-USER22",
+    "password": "hguser02",
+    "active": "true",
+    "role": "Echo"
+  },
+  {
     "username": "justKal",
     "password": "justkal67",
     "active": "true",
