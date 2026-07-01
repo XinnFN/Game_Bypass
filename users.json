@@ -507,19 +507,19 @@
     "username": "HG-USER34",
     "password": "hguser84",
     "active": "true",
-    "role": "Echo"
+    "role": "shadow"
   },
   {
     "username": "HG-USER35",
     "password": "hguser45",
     "active": "true",
-    "role": "Echo"
+    "role": "shadow"
   },
   {
     "username": "HG-USER36",
     "password": "hguser54",
     "active": "true",
-    "role": "Echo"
+    "role": "shadow"
   },
   {
     "username": "justKal",
