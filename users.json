@@ -60,6 +60,12 @@
     "role": "shadow"
   },
   {
+    "username": "no1",
+    "password": "no123",
+    "active": "true",
+    "role": "shadow"
+  },
+  {
     "username": "keko",
     "password": "keko123",
     "active": "true",
