@@ -48,6 +48,12 @@
     "role": "Echo"
   },
   {
+    "username": "kyou",
+    "password": "kyou123",
+    "active": "true",
+    "role": "Echo"
+  },
+  {
     "username": "ucupp11",
     "password": "ucup1123",
     "active": "true",
