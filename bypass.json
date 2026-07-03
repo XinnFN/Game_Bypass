@@ -17,6 +17,14 @@
       "allowedRoles": "shadow, Echo, soldier"
     },
     {
+      "name": "Assassin's Creed Mirage",
+      "steamAppId": 3035570,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Assassins.Creed.Mirage.Valley.of.Memory.rar"
+      ],
+      "allowedRoles": "shadow, Echo, soldier"
+    },
+    {
       "name": "Assassin's Creed IV Black Flag",
       "steamAppId": 242050,
       "files": [
