@@ -108,14 +108,8 @@
     "role": "Echo"
   },
   {
-    "username": "Kautsar",
-    "password": "Kautsar123",
-    "active": "true",
-    "role": "shadow"
-  },
-  {
-    "username": "Kautsar1",
-    "password": "Kautsar123",
+    "username": "kautsar",
+    "password": "kautsar123",
     "active": "true",
     "role": "shadow"
   },
