@@ -9,6 +9,14 @@
       "allowdRoles": "shadow, Echo, soldier"
     },
     {
+      "name": "Portal 2",
+      "steamAppId": 620,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Portal2.rar"
+      ],
+      "allowdRoles": "shadow, Echo, soldier"
+    },
+    {
       "name": "007 First Light",
       "steamAppId": 3768760,
       "files": [
