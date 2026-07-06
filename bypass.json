@@ -25,6 +25,14 @@
       "allowedRoles": "shadow, Echo, soldier"
     },
     {
+      "name": "Lethal Company",
+      "steamAppId": 1966720,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/LethalCompany.rar"
+      ],
+      "allowedRoles": "shadow, Echo, soldier"
+    },
+    {
       "name": "Assassin's Creed Mirage",
       "steamAppId": 3035570,
       "files": [
