@@ -25,6 +25,14 @@
       "allowedRoles": "shadow, Echo, soldier"
     },
     {
+      "name": "Persona 5 Royal",
+      "steamAppId": 1687950,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Persona.5.Royal.rar"
+      ],
+      "allowedRoles": "shadow, Echo, soldier"
+    },
+    {
       "name": "Lethal Company",
       "steamAppId": 1966720,
       "files": [
