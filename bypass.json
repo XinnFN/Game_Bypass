@@ -28,6 +28,15 @@
       "category": "bypass"
     },
     {
+      "name": "METAL GEAR SOLID V: THE PHANTOM PAIN",
+      "steamAppId": 287700,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Metal.Gear.Solid.V.The.Phantom.Pain.rar"
+      ],
+      "allowedRoles": "shadow, Echo, soldier",
+      "category": "bypass"
+    },
+    {
       "name": "Persona 5 Royal",
       "steamAppId": 1687950,
       "files": [
