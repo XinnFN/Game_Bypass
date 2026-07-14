@@ -37,6 +37,15 @@
       "category": "bypass"
     },
     {
+      "name": "Assassin's Creed Black Flag Resynced",
+      "steamAppId": 3751950,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/AC.Black.Flag.Resynced.zip"
+      ],
+      "allowedRoles": "Echo, soldier",
+      "category": "activation"
+    },
+    {
       "name": "Persona 5 Royal",
       "steamAppId": 1687950,
       "files": [
