@@ -19,6 +19,15 @@
       "category": "bypass"
     },
     {
+      "name": "Ready or Not",
+      "steamAppId": 1144200,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/ReadyOrNot.rar"
+      ],
+      "allowdRoles": "shadow, Echo, soldier",
+      "category": "online-fix"
+    },
+    {
       "name": "007 First Light",
       "steamAppId": 3768760,
       "files": [
