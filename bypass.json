@@ -69,7 +69,7 @@
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Call.of.Duty.Black.Ops.Cold.War.rar"
       ],
-      "allowedRoles": "Echo, soldier",
+      "allowedRoles": "shadow, Echo, soldier",
       "category": "bypass"
     },
     {
