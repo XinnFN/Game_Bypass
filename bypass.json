@@ -64,6 +64,15 @@
       "category": "activation"
     },
     {
+      "name": "Call of Duty®: Black Ops Cold War",
+      "steamAppId": 1985810,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Call.of.Duty.Black.Ops.Cold.War.rar"
+      ],
+      "allowedRoles": "Echo, soldier",
+      "category": "bypass"
+    },
+    {
       "name": "Persona 5 Royal",
       "steamAppId": 1687950,
       "files": [
