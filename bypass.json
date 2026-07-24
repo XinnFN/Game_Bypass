@@ -55,6 +55,33 @@
       "category": "bypass"
     },
     {
+      "name": "Dead Space",
+      "steamAppId": 1693980,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Dead.Space.Remake.rar"
+      ],
+      "allowedRoles": "shadow, Echo, soldier",
+      "category": "bypass"
+    },
+    {
+      "name": "Dead Space 2",
+      "steamAppId": 47780,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Dead.Space.2.rar"
+      ],
+      "allowedRoles": "shadow, Echo, soldier",
+      "category": "bypass"
+    },
+    {
+      "name": "Dead Space 3",
+      "steamAppId": 1238060,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Dead.Space.3.rar"
+      ],
+      "allowedRoles": "shadow, Echo, soldier",
+      "category": "bypass"
+    },
+    {
       "name": "Assassin's Creed Shadows",
       "steamAppId": 3159330,
       "files": [
@@ -163,10 +190,28 @@
       "category": "bypass"
     },
     {
+      "name": "Call of Duty®: Modern Warfare®",
+      "steamAppId": 3595230,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Call.of.Duty.Modern.Warfare.rar"
+      ],
+      "allowedRoles": "shadow, Echo, soldier",
+      "category": "bypass"
+    },
+    {
       "name": "Call of Duty®: Modern Warfare® II",
       "steamAppId": 3595230,
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Call.of.Duty.Modern.Warfare.II.rar"
+      ],
+      "allowedRoles": "shadow, Echo, soldier",
+      "category": "bypass"
+    },
+    {
+      "name": "Call of Duty®: Modern Warfare® III",
+      "steamAppId": 3595230,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Call.of.Duty.Modern.Warfare.III.rar"
       ],
       "allowedRoles": "shadow, Echo, soldier",
       "category": "bypass"
