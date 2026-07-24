@@ -323,7 +323,7 @@
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/2669320.zip"
       ],
-      "allowedRoles": "Echo, soldier"
+      "allowedRoles": "shadow, Echo, soldier"
     },
     {
       "name": "EA SPORTS FC™ 26",
@@ -333,7 +333,7 @@
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/3405690.zip"
       ],
-      "allowedRoles": "Echo, soldier"
+      "allowedRoles": "shadow, Echo, soldier"
     },
     {
       "name": "Planet Zoo",
@@ -343,7 +343,7 @@
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/703080.zip"
       ],
-      "allowedRoles": "soldier"
+      "allowedRoles": "shadow, Echo, soldier"
     },
     {
       "name": "Red Dead Redemption 2",
