@@ -624,16 +624,6 @@
       "allowedRoles": "shadow, Echo, soldier"
     },
     {
-      "name": "Persona 5 Strikers",
-      "steamAppId": 1382330,
-      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1382330/header.jpg?t=1763530465",
-      "denuvo": true,
-      "files": [
-        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/1382330.zip"
-      ],
-      "allowedRoles": "soldier"
-    },
-    {
       "name": "Watch_Dogs 2",
       "steamAppId": 447040,
       "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/447040/header.jpg?t=1751986887",
@@ -686,16 +676,6 @@
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/552520.zip"
       ],
       "allowedRoles": "shadow, Echo, soldier"
-      },
-    {
-      "name": "Persona 4 Arena Ultimax",
-      "steamAppId": 1602010,
-      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1602010/header.jpg?t=1763530579",
-      "denuvo": true,
-      "files": [
-        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/1602010.zip"
-      ],
-      "allowedRoles": "soldier"
       },
     {
       "name": "Raft",
