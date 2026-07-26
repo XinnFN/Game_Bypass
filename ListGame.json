@@ -136,15 +136,6 @@
       "allowedRoles": "shadow, Echo, soldier"
     },
     {
-      "name": "SILENT HILL f",
-      "steamAppId": 2947440,
-      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2947440/7e5d923ac622bd1775ebc9b5d4b5b0a24bf5ed40/header.jpg?t=1770169624",
-      "files": [
-        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/2947440.zip"
-      ],
-      "allowedRoles": "shadow, Echo, soldier"
-    },
-    {
       "name": "Solo Leveling: ARISE OVERDRIVE",
       "steamAppId": 2373990,
       "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2373990/018068a74847b3953278efacca07cfbe537a46c7/header.jpg?t=1781758887",
@@ -352,15 +343,6 @@
       "allowedRoles": "shadow, Echo, soldier"
     },
     {
-      "name": "Ghost of Tsushima DIRECTOR'S CUT",
-      "steamAppId": 2215430,
-      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2215430/header.jpg?t=1763409398",
-      "files": [
-        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/2215430.zip"
-      ],
-      "allowedRoles": "shadow, Echo, soldier"
-    },
-    {
       "name": "EA SPORTS FC™ 25",
       "steamAppId": 2669320,
       "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2669320/ec3fb7747fd8080ef53d7686e0d98c5abe1f51f1/header.jpg?t=1777395910",
@@ -381,16 +363,6 @@
       "allowedRoles": "shadow, Echo, soldier"
     },
     {
-      "name": "Planet Zoo",
-      "steamAppId": 703080,
-      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/703080/header.jpg?t=1765896213",
-      "denuvo": true,
-      "files": [
-        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/703080.zip"
-      ],
-      "allowedRoles": "shadow, Echo, soldier"
-    },
-    {
       "name": "Red Dead Redemption 2",
       "steamAppId": 1174180,
       "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg?t=1759502961",
@@ -400,38 +372,11 @@
       "allowedRoles": "shadow, Echo, soldier"
     },
     {
-      "name": "Yunyun Syndrome!? Rhythm Psychosis",
-      "steamAppId": 2914150,
-      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2914150/b58ce7618c376997fa067ab78906652f1d62d995/header.jpg?t=1777264751",
-      "files": [
-        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/2914150.zip"
-      ],
-      "allowedRoles": "shadow, Echo, soldier"
-    },
-    {
       "name": "R.E.P.O.",
       "steamAppId": 3241660,
       "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3241660/a12c92856b71315da885924ea5e1d5290c8025b8/header_alt_assets_2.jpg?t=1778158882",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/3241660.zip"
-      ],
-      "allowedRoles": "shadow, Echo, soldier"
-    },
-    {
-      "name": "The Witcher: Enhanced Edition",
-      "steamAppId": 20900,
-      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/20900/header.jpg?t=1749200362",
-      "files": [
-        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/20900.zip"
-      ],
-      "allowedRoles": "shadow, Echo, soldier"
-    },
-    {
-      "name": "The Witcher: Enhanced Edition",
-      "steamAppId": 20900,
-      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/20900/header.jpg?t=1749200362",
-      "files": [
-        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/20900.zip"
       ],
       "allowedRoles": "shadow, Echo, soldier"
     },
@@ -454,15 +399,6 @@
       "allowedRoles": "shadow, Echo, soldier"
     },
     {
-      "name": "The Witcher 3: Wild Hunt",
-      "steamAppId": 292030,
-      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/292030/ad9240e088f953a84aee814034c50a6a92bf4516/header.jpg?t=1768303991",
-      "files": [
-        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/292030.zip"
-      ],
-      "allowedRoles": "shadow, Echo, soldier"
-    },
-    {
       "name": "LEGO® Batman™: Legacy of the Dark Knight",
       "steamAppId": 2215200,
       "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2215200/a07a9a6c0c9c1225f5b260b4f29fe40e6f099f6b/header.jpg?t=1779499107",
@@ -477,79 +413,6 @@
       "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/753640/079ae4a7ff4b5875adc5c63c4c0b84e5a3e6966b/header.jpg?t=1779137571",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/753640.zip"
-      ],
-      "allowedRoles": "shadow, Echo, soldier"
-    },
-    {
-      "name": "Little Nightmares",
-      "steamAppId": 424840,
-      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/424840/facf9a7a675c6d7f210d96d6b111caffe0386cd5/header.jpg?t=1773135169",
-      "files": [
-        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/424840.zip"
-      ],
-      "allowedRoles": "shadow, Echo, soldier"
-    },
-    {
-      "name": "Little Nightmares II",
-      "steamAppId": 860510,
-      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/860510/header.jpg?t=1730127763",
-      "files": [
-        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/860510.zip"
-      ],
-      "allowedRoles": "shadow, Echo, soldier"
-    },
-    {
-      "name": "Little Nightmares III",
-      "steamAppId": 1392860,
-      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1392860/7aba96b32736990ec8a131bfdf395d2dc35b282b/header.jpg?t=17678876167571",
-      "files": [
-        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/1392860.zip"
-      ],
-      "allowedRoles": "shadow, Echo, soldier"
-    },
-    {
-      "name": "Devil May Cry 5",
-      "steamAppId": "601150",
-      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/601150/header.jpg?t=1768869803",
-      "files": [
-        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/601150.zip"
-      ],
-      "allowedRoles": "shadow, Echo, soldier"
-    },
-    {
-      "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 3 Full Burst",
-      "steamAppId": "234670",
-      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/234670/header.jpg?t=1703662542",
-      "files": [
-        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/234670.zip"
-      ],
-      "allowedRoles": "shadow, Echo, soldier"
-    },
-    {
-      "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4",
-      "steamAppId": "349040",
-      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/349040/header.jpg?t=1703080866",
-      "files": [
-        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/349040.zip"
-      ],
-      "allowedRoles": "shadow, Echo, soldier"
-    },
-    {
-      "name": "DARK SOULS™: REMASTERED",
-      "steamAppId": "570940",
-      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/570940/header.jpg?t=1778518110",
-      "files": [
-        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/570940.zip"
-      ],
-      "allowedRoles": "shadow, Echo, soldier"
-    },
-    {
-      "name": "Persona 3 Reload",
-      "steamAppId": "2161700",
-      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2161700/header.jpg?t=1764776430",
-      "denuvo": true,
-      "files": [
-        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/2161700.zip"
       ],
       "allowedRoles": "shadow, Echo, soldier"
     },
@@ -752,26 +615,6 @@
       "allowedRoles": "shadow, Echo, soldier"
     },
     {
-      "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2",
-      "steamAppId": 2928600,
-      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2928600/f8a7d046233fb84b20fc546c98b8e2d3f3439033/header.jpg?t=1776384111",
-      "denuvo": true,
-      "files": [
-        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/2928600.zip"
-      ],
-      "allowedRoles": "soldier"
-    },
-    {
-      "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles",
-      "steamAppId": 1490890,
-      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1490890/header.jpg?t=1762753763",
-      "denuvo": true,
-      "files": [
-        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/1490890.zip"
-      ],
-      "allowedRoles": "soldier"
-    },
-    {
       "name": "Stellar Blade™",
       "steamAppId": 3489700,
       "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3489700/header.jpg?t=1776466244",
@@ -864,100 +707,11 @@
       "allowedRoles": "shadow, Echo, soldier"
       },
     {
-      "name": "Resident Evil 0",
-      "steamAppId": 339340,
-      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/339340/header.jpg?t=1768953920",
-      "files": [
-        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/339340.zip"
-      ],
-      "allowedRoles": "shadow, Echo, soldier"
-      },
-    {
-      "name": "Resident Evil 2",
-      "steamAppId": 883710,
-      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/883710/header.jpg?t=1779433152",
-      "files": [
-        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/883710.zip"
-      ],
-      "allowedRoles": "shadow, Echo, soldier"
-      },
-    {
-      "name": "Resident Evil 3",
-      "steamAppId": 952060,
-      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/952060/header.jpg?t=1778616591",
-      "files": [
-        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/952060.zip"
-      ]
-      },
-    {
-      "name": "Resident Evil 4 (2005)",
-      "steamAppId": 254700,
-      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/254700/header.jpg?t=1768960618",
-      "files": [
-        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/254700.zip"
-      ],
-      "allowedRoles": "shadow, Echo, soldier"
-      },
-    {
-      "name": "Resident Evil 4",
-      "steamAppId": 2050650,
-      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2050650/header.jpg?t=1772502922",
-      "files": [
-        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/2050650.zip"
-      ],
-      "allowedRoles": "shadow, Echo, soldier"
-      },
-    {
-      "name": "Resident Evil 5",
-      "steamAppId": 21690,
-      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/21690/header.jpg?t=1768960574",
-      "files": [
-        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/21690.zip"
-      ],
-      "allowedRoles": "shadow, Echo, soldier"
-      },
-    {
-      "name": "Resident Evil 6",
-      "steamAppId": 221040,
-      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/221040/header.jpg?t=1768960676",
-      "files": [
-        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/221040.zip"
-      ],
-      "allowedRoles": "shadow, Echo, soldier"
-      },
-    {
-      "name": "Resident Evil 7 Biohazard",
-      "steamAppId": 418370,
-      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/418370/header.jpg?t=1778464947",
-      "files": [
-        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/418370.zip"
-      ],
-      "allowedRoles": "shadow, Echo, soldier"
-      },
-    {
-      "name": "Resident Evil Village",
-      "steamAppId": 1196590,
-      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1196590/header.jpg?t=1776927117",
-      "files": [
-        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/1196590.zip"
-      ],
-      "allowedRoles": "shadow, Echo, soldier"
-      },
-    {
       "name": "Watch_Dogs™",
       "steamAppId": 243470,
       "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/243470/header.jpg?t=1739177057",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/243470.zip"
-      ],
-      "allowedRoles": "shadow, Echo, soldier"
-      },
-    {
-      "name": "Wallpaper Engine",
-      "steamAppId": 431960,
-      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/431960/header.jpg?t=1779452230",
-      "files": [
-        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/431960.zip"
       ],
       "allowedRoles": "shadow, Echo, soldier"
       },
