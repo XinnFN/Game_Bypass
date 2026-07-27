@@ -37,6 +37,15 @@
       "category": "bypass"
     },
     {
+      "name": "The First Berserker: Khazan",
+      "steamAppId": 2680010,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/khazan.rar"
+      ],
+      "allowdRoles": "shadow, Echo, soldier",
+      "category": "bypass"
+    },
+    {
       "name": "Call of Duty®: Vanguard",
       "steamAppId": 1985820,
       "files": [
@@ -94,7 +103,7 @@
       "name": "Assassin's Creed Shadows",
       "steamAppId": 3159330,
       "files": [
-        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Assassins.Creed.Shadows.rar"
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Assassins.Creed.Shadows.fix.rar"
       ],
       "allowedRoles": "shadow, Echo, soldier",
       "category": "bypass"
