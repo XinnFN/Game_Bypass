@@ -37,6 +37,15 @@
       "category": "bypass"
     },
     {
+      "name": "Call of Duty®: Vanguard",
+      "steamAppId": 1985820,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/COD.V.rar"
+      ],
+      "allowdRoles": "shadow, Echo, soldier",
+      "category": "bypass"
+    },
+    {
       "name": "007 First Light",
       "steamAppId": 3768760,
       "files": [
