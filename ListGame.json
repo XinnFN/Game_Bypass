@@ -37,6 +37,15 @@
       "allowedRoles": "shadow, Echo, soldier"
     },
     {
+      "name": "DragonSword : Awakening",
+      "steamAppId": 4570720,
+      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4570720/96a897e98f4472e656fbe6681191b3066cab6056/header.jpg?t=1785227784",
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/4570720.zip"
+      ],
+      "allowedRoles": "shadow, Echo, soldier"
+    },
+    {
       "name": "Battlefield™ 6",
       "steamAppId": 2807960,
       "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2807960/c12d12ce3c7d217398d3fcad77427bfc9d57c570/header.jpg?t=1784839791",
