@@ -64,15 +64,6 @@
       "category": "bypass"
     },
     {
-      "name": "007 First Light",
-      "steamAppId": 3768760,
-      "files": [
-        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/007.First.Light.rar"
-      ],
-      "allowedRoles": "shadow, Echo, soldier",
-      "category": "bypass"
-    },
-    {
       "name": "METAL GEAR SOLID V: THE PHANTOM PAIN",
       "steamAppId": 287700,
       "files": [
