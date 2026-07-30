@@ -28,6 +28,15 @@
       "category": "online-fix"
     },
     {
+      "name": "Halo: Campaign Evolved",
+      "steamAppId": 2806050,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Halo.Campaign.Evolved.rar"
+      ],
+      "allowdRoles": "shadow, Echo, soldier",
+      "category": "bypass"
+    },
+    {
       "name": "Battlefield™ 6",
       "steamAppId": 2807960,
       "files": [
