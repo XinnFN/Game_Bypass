@@ -19,6 +19,15 @@
       "allowedRoles": "shadow, Echo, soldier"
     },
     {
+      "name": "Halo: Campaign Evolved",
+      "steamAppId": 2806050,
+      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2806050/30d8542d35d7919b34e5f5dbe955d04c3f99e6da/header.jpg?t=1785367749",
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/2806050.zip"
+      ],
+      "allowedRoles": "shadow, Echo, soldier"
+    },
+    {
       "name": "E-Shop Tycoon",
       "steamAppId": 4249850,
       "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4249850/89c708329b69dfa7b088e8e90857ac252459848b/header.jpg?t=1785239284",
