@@ -384,7 +384,7 @@
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/EA.FC.25.rar"
       ],
-      "allowedRoles": "Echo, soldier",
+      "allowedRoles": "shadow, Echo, soldier",
       "category": "activation"
     },
     {
@@ -393,7 +393,7 @@
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/EA.SPORTS.FC.26.rar"
       ],
-      "allowedRoles": "Echo, soldier",
+      "allowedRoles": "shadow, Echo, soldier",
       "category": "activation"
     },
     {
