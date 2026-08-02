@@ -642,6 +642,15 @@
       "allowedRoles": "shadow, Echo, soldier"
     },
     {
+      "name": "Sonic Frontiers",
+      "steamAppId": "1237320",
+      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1237320/header.jpg?t=1783493175",
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/1237320.zip"
+      ],
+      "allowedRoles": "shadow, Echo, soldier"
+    },
+    {
       "name": "Subnautica 2",
       "steamAppId": "1962700",
       "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1962700/header.jpg?t=1779437128",
