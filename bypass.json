@@ -514,6 +514,15 @@
       "category": "bypass"
     },
     {
+      "name": "Sonic Frontiers",
+      "steamAppId": 1237320,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Sonic.Frontiers.rar"
+      ],
+      "allowedRoles": "shadow, Echo, soldier",
+      "category": "bypass"
+    },
+    {
       "name": "Stellar Blade™",
       "steamAppId": 3489700,
       "files": [
