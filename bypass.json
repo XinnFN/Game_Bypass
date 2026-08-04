@@ -19,6 +19,24 @@
       "category": "bypass"
     },
     {
+      "name": "Avatar: Frontiers of Pandora",
+      "steamAppId": 2840770,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Avatar.Frontiers.of.Pandora.rar"
+      ],
+      "allowdRoles": "shadow, Echo, soldier",
+      "category": "bypass"
+    },
+    {
+      "name": "Crimson Desert",
+      "steamAppId": 3321460,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Crimson.Desert.rar"
+      ],
+      "allowdRoles": "shadow, Echo, soldier",
+      "category": "bypass"
+    },
+    {
       "name": "Ready or Not",
       "steamAppId": 1144200,
       "files": [
