@@ -19,6 +19,15 @@
       "allowedRoles": "shadow, Echo, soldier"
     },
     {
+      "name": "Call of Duty: Black Ops",
+      "steamAppId": 42700,
+      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/42700/header.jpg?t=1780962720",
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/42700.zip"
+      ],
+      "allowedRoles": "shadow, Echo, soldier"
+    },
+    {
       "name": "Crimson Desert",
       "steamAppId": 3321460,
       "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3321460/abd7dbdeaede8b6c9a6d40bf116ff2b883f2dd45/header.jpg?t=1781661893",
