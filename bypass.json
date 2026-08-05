@@ -28,6 +28,15 @@
       "category": "bypass"
     },
     {
+      "name": "Call of Duty: Black Ops",
+      "steamAppId": 42700,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/BlackOps.rar"
+      ],
+      "allowdRoles": "shadow, Echo, soldier",
+      "category": "bypass"
+    },
+    {
       "name": "Crimson Desert",
       "steamAppId": 3321460,
       "files": [
