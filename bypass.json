@@ -37,6 +37,15 @@
       "category": "bypass"
     },
     {
+      "name": "Train Sim World® 5",
+      "steamAppId": 2967990,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/TSW5.rar"
+      ],
+      "allowdRoles": "shadow, Echo, soldier",
+      "category": "bypass"
+    },
+    {
       "name": "Assassin's Creed Syndicate",
       "steamAppId": 368500,
       "files": [
