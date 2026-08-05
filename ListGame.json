@@ -28,6 +28,15 @@
       "allowedRoles": "shadow, Echo, soldier"
     },
     {
+      "name": "Train Sim World® 5",
+      "steamAppId": 2967990,
+      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2967990/header.jpg?t=1764602050",
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/2967990.zip"
+      ],
+      "allowedRoles": "shadow, Echo, soldier"
+    },
+    {
       "name": "Assassin's Creed Syndicate",
       "steamAppId": 368500,
       "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/368500/header.jpg?t=1766772262",
