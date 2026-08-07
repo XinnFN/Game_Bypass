@@ -46,6 +46,15 @@
       "category": "bypass"
     },
     {
+      "name": "Call of Duty: Infinite Warfare",
+      "steamAppId": 292730,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Call.of.Duty.Infinite.Warfare.rar"
+      ],
+      "allowdRoles": "shadow, Echo, soldier",
+      "category": "bypass"
+    },
+    {
       "name": "Assassin's Creed Syndicate",
       "steamAppId": 368500,
       "files": [
