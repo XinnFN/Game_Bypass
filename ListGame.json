@@ -28,6 +28,15 @@
       "allowedRoles": "shadow, Echo, soldier"
     },
     {
+      "name": "Call of Duty: Black Ops II",
+      "steamAppId": 202970,
+      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/202970/header.jpg?t=1780962925",
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/202970.zip"
+      ],
+      "allowedRoles": "shadow, Echo, soldier"
+    },
+    {
       "name": "Train Sim World® 5",
       "steamAppId": 2967990,
       "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2967990/header.jpg?t=1764602050",
