@@ -64,6 +64,15 @@
       "category": "bypass"
     },
     {
+      "name": "Call of Duty: Black Ops II",
+      "steamAppId": 202970,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Call.of.Duty.Black.Ops.II.Fix.rar"
+      ],
+      "allowdRoles": "shadow, Echo, soldier",
+      "category": "bypass"
+    },
+    {
       "name": "Crimson Desert",
       "steamAppId": 3321460,
       "files": [
