@@ -37,6 +37,15 @@
       "category": "bypass"
     },
     {
+       "name": "Call of Duty: Black Ops III",
+      "steamAppId": 311210,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Call.of.Duty.Black.Ops.III.zip"
+      ],
+      "allowdRoles": "shadow, Echo, soldier",
+      "category": "bypass"
+    },
+    {
       "name": "Train Sim World® 5",
       "steamAppId": 2967990,
       "files": [
