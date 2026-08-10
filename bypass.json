@@ -10,6 +10,15 @@
       "category": "bypass"
     },
     {
+      "name": "Granblue Fantasy: Relink",
+      "steamAppId": 881020,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Granblue.Fantasy.Relink.rar"
+      ],
+      "allowdRoles": "shadow, Echo, soldier",
+      "category": "bypass"
+    },
+    {
       "name": "Portal 2",
       "steamAppId": 620,
       "files": [
