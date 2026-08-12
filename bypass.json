@@ -19,6 +19,15 @@
       "category": "online-fix"
     },
     {
+      "name": "Train Simulator Classic",
+      "steamAppId": 24010,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/TSC2024.rar"
+      ],
+      "allowdRoles": "shadow, Echo, soldier",
+      "category": "online-fix"
+    },
+    {
       "name": "Portal 2",
       "steamAppId": 620,
       "files": [
