@@ -28,6 +28,15 @@
       "category": "bypass"
     },
     {
+       "name": "Planet Coaster",
+      "steamAppId": 493340,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/planet.coaster.rar"
+      ],
+      "allowdRoles": "shadow, Echo, soldier",
+      "category": "bypass"
+    },
+    {
       "name": "Avatar: Frontiers of Pandora",
       "steamAppId": 2840770,
       "files": [
