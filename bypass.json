@@ -19,6 +19,15 @@
       "category": "online-fix"
     },
     {
+      "name": "HITMAN World of Assassination",
+      "steamAppId": 1659040,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/hitman.woa.rar"
+      ],
+      "allowdRoles": "shadow, Echo, soldier",
+      "category": "bypass"
+    },
+    {
       "name": "Need for Speed™ Heat",
       "steamAppId": 1222680,
       "files": [
