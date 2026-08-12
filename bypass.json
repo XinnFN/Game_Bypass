@@ -19,13 +19,22 @@
       "category": "online-fix"
     },
     {
+      "name": "Need for Speed™ Heat",
+      "steamAppId": 1222680,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/nfs.heat.rar"
+      ],
+      "allowdRoles": "shadow, Echo, soldier",
+      "category": "bypass"
+    },
+    {
       "name": "Train Simulator Classic",
       "steamAppId": 24010,
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/TSC2024.rar"
       ],
       "allowdRoles": "shadow, Echo, soldier",
-      "category": "online-fix"
+      "category": "bypass"
     },
     {
       "name": "Portal 2",
