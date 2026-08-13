@@ -19,6 +19,15 @@
       "category": "online-fix"
     },
     {
+      "name": "Absolver",
+      "steamAppId": 473690,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Absolver.rar"
+      ],
+      "allowdRoles": "shadow, Echo, soldier",
+      "category": "online-fix"
+    },
+    {
       "name": "HITMAN World of Assassination",
       "steamAppId": 1659040,
       "files": [
