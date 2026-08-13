@@ -28,6 +28,15 @@
       "category": "bypass"
     },
     {
+      "name": "JR EAST Train Simulator",
+      "steamAppId": 2111630,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/J-R-EAST-T-S-.7z"
+      ],
+      "allowdRoles": "shadow, Echo, soldier",
+      "category": "bypass"
+    },
+    {
       "name": "Need for Speed™ Heat",
       "steamAppId": 1222680,
       "files": [
