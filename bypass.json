@@ -28,6 +28,24 @@
       "category": "online-fix"
     },
     {
+      "name": "ONE PIECE: PIRATE WARRIORS 4",
+      "steamAppId": 1089090,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/OPPW4.rar"
+      ],
+      "allowdRoles": "shadow, Echo, soldier",
+      "category": "bypass"
+    },
+    {
+      "name": "Battlefield™ 1",
+      "steamAppId": 1238840,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Battlefield.1.Fix.7z"
+      ],
+      "allowdRoles": "shadow, Echo, soldier",
+      "category": "bypass"
+    },
+    {
       "name": "HITMAN World of Assassination",
       "steamAppId": 1659040,
       "files": [
