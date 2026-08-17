@@ -46,6 +46,24 @@
       "category": "bypass"
     },
     {
+      "name": "Mafia: Definitive Edition",
+      "steamAppId": 1030840,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/MDE.rar"
+      ],
+      "allowdRoles": "shadow, Echo, soldier",
+      "category": "bypass"
+    },
+    {
+      "name": "Mafia II: Definitive Edition",
+      "steamAppId": 1030830,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/MDEII.rar"
+      ],
+      "allowdRoles": "shadow, Echo, soldier",
+      "category": "bypass"
+    },
+    {
       "name": "Battlefield™ 1",
       "steamAppId": 1238840,
       "files": [
