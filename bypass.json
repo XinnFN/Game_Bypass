@@ -37,6 +37,15 @@
       "category": "bypass"
     },
     {
+      "name": "MARVEL Tōkon: Fighting Souls",
+      "steamAppId": 3787240,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/MTFS.rar"
+      ],
+      "allowdRoles": "shadow, Echo, soldier",
+      "category": "bypass"
+    },
+    {
       "name": "Battlefield™ 1",
       "steamAppId": 1238840,
       "files": [
