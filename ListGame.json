@@ -82,6 +82,15 @@
       "allowedRoles": "shadow, Echo, soldier"
     },
     {
+      "name": "The First Berserker: Khazan",
+      "steamAppId": 2680010,
+      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2680010/header.jpg?t=1776936760",
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/2680010.zip"
+      ],
+      "allowedRoles": "shadow, Echo, soldier"
+    },
+    {
       "name": "Need for Speed™ Heat",
       "steamAppId": 1222680,
       "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1222680/header.jpg?t=1777414224",
