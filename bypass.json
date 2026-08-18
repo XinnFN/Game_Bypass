@@ -37,6 +37,15 @@
       "category": "bypass"
     },
     {
+      "name": "EA SPORTS™ Madden NFL 27",
+      "steamAppId": 3940610,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/mnfl27.rar"
+      ],
+      "allowdRoles": "shadow, Echo, soldier",
+      "category": "bypass"
+    },
+    {
       "name": "MARVEL Tōkon: Fighting Souls",
       "steamAppId": 3787240,
       "files": [
