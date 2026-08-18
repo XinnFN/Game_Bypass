@@ -37,6 +37,15 @@
       "category": "bypass"
     },
     {
+      "name": "DRAGON BALL FighterZ",
+      "steamAppId": 678950,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/DBFZ.zip"
+      ],
+      "allowdRoles": "shadow, Echo, soldier",
+      "category": "bypass"
+    },
+    {
       "name": "EA SPORTS™ Madden NFL 27",
       "steamAppId": 3940610,
       "files": [
