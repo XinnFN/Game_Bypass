@@ -28,6 +28,15 @@
       "category": "online-fix"
     },
     {
+      "name": "Wobbly Life",
+      "steamAppId": 1211020,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/WL.7z"
+      ],
+      "allowdRoles": "shadow, Echo, soldier",
+      "category": "online-fix"
+    },
+    {
       "name": "How to Fish",
       "steamAppId": 4001890,
       "files": [
