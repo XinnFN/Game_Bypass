@@ -64,6 +64,15 @@
       "category": "bypass"
     },
     {
+      "name": "EA SPORTS™ College Football 27",
+      "steamAppId": 4032350,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/ESCF.zip"
+      ],
+      "allowdRoles": "shadow, Echo, soldier",
+      "category": "bypass"
+    },
+    {
       "name": "DRAGON BALL FighterZ",
       "steamAppId": 678950,
       "files": [
