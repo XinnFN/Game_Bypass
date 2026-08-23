@@ -28,6 +28,15 @@
       "category": "online-fix"
     },
     {
+      "name": "Sons Of The Forest",
+      "steamAppId": 1326470,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/SOTF.rar"
+      ],
+      "allowdRoles": "shadow, Echo, soldier",
+      "category": "online-fix"
+    },
+    {
       "name": "Wobbly Life",
       "steamAppId": 1211020,
       "files": [
