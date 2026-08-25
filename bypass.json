@@ -91,6 +91,24 @@
       "category": "bypass"
     },
     {
+      "name": "Grand Theft Auto: San Andreas - The Definitive Edition",
+      "steamAppId": 4032350,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/San.Andreas.TheDefinitiveEdition.rar"
+      ],
+      "allowdRoles": "shadow, Echo, soldier",
+      "category": "bypass"
+    },
+    {
+      "name": "Assassin's Creed IV Black Flag",
+      "steamAppId": 242050,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/ACBF.zip"
+      ],
+      "allowdRoles": "shadow, Echo, soldier",
+      "category": "bypass"
+    },
+    {
       "name": "STAR WARS Jedi: Fallen Order™",
       "steamAppId": 1172380,
       "files": [
