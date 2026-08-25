@@ -28,6 +28,15 @@
       "category": "online-fix"
     },
     {
+      "name": "It Takes Two",
+      "steamAppId": 1426210,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/ITT.rar"
+      ],
+      "allowdRoles": "shadow, Echo, soldier",
+      "category": "online-fix"
+    },
+    {
       "name": "Fears to Fathom - Scratch Creekr",
       "steamAppId": 4121170,
       "files": [
