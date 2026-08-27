@@ -91,6 +91,15 @@
       "category": "bypass"
     },
     {
+      "name": "NBA 2K27",
+      "steamAppId": 4356430,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/nba2k27.rar"
+      ],
+      "allowdRoles": "shadow, Echo, soldier",
+      "category": "bypass"
+    },
+    {
       "name": "RIDE 6",
       "steamAppId": 1259980,
       "files": [
