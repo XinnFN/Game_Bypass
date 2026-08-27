@@ -100,10 +100,10 @@
       "category": "bypass"
     },
     {
-      "name": "RIDE 6",
+      "name": "RIDE 4",
       "steamAppId": 1259980,
       "files": [
-        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Ride6.zip"
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/ride4.rar"
       ],
       "allowdRoles": "shadow, Echo, soldier",
       "category": "bypass"
