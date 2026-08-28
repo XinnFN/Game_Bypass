@@ -100,6 +100,15 @@
       "category": "bypass"
     },
     {
+      "name": "Burnout™ Paradise Remastered",
+      "steamAppId": 1238080,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/burnre.7z"
+      ],
+      "allowdRoles": "shadow, Echo, soldier",
+      "category": "bypass"
+    },
+    {
       "name": "RIDE 4",
       "steamAppId": 1259980,
       "files": [
