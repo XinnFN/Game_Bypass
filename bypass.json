@@ -91,6 +91,15 @@
       "category": "bypass"
     },
     {
+      "name": "Just Cause 4",
+      "steamAppId": 517630,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/JC4.rar"
+      ],
+      "allowdRoles": "shadow, Echo, soldier",
+      "category": "bypass"
+    },
+    {
       "name": "RIDE 5",
       "steamAppId": 1650010,
       "files": [
