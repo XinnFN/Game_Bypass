@@ -100,6 +100,15 @@
       "category": "bypass"
     },
     {
+      "name": "Steep",
+      "steamAppId": 460920,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Steep.7z"
+      ],
+      "allowdRoles": "shadow, Echo, soldier",
+      "category": "bypass"
+    },
+    {
       "name": "RIDE 5",
       "steamAppId": 1650010,
       "files": [
