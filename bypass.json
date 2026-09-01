@@ -118,6 +118,15 @@
       "category": "bypass"
     },
     {
+      "name": "CAPTAIN TSUBASA 2: WORLD FIGHTERS",
+      "steamAppId": 2172910,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/CT2WF.zip"
+      ],
+      "allowdRoles": "shadow, Echo, soldier",
+      "category": "bypass"
+    },
+    {
       "name": "NBA 2K27",
       "steamAppId": 4356430,
       "files": [
