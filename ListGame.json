@@ -19,6 +19,15 @@
       "allowedRoles": "shadow, Echo, soldier"
     },
     {
+      "name": "Dragon's Dogma 2",
+      "steamAppId": 2054970,
+      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2054970/header.jpg?t=1788308490",
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/2054970.zip"
+      ],
+      "allowedRoles": "shadow, Echo, soldier"
+    },
+    {
       "name": "Just Cause 4",
       "steamAppId": 517630,
       "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/517630/header.jpg?t=1782912930",
