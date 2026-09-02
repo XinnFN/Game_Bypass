@@ -91,6 +91,15 @@
       "category": "bypass"
     },
     {
+      "name": "STAR WARS Zero Company™",
+      "steamAppId": 2075800,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/StarWarsCompany.rar"
+      ],
+      "allowdRoles": "shadow, Echo, soldier",
+      "category": "bypass"
+    },
+    {
       "name": "Just Cause 4",
       "steamAppId": 517630,
       "files": [
