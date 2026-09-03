@@ -64,6 +64,24 @@
       "allowedRoles": "shadow, Echo, soldier"
     },
     {
+      "name": "FINAL FANTASY XV WINDOWS EDITION Build.1261414",
+      "steamAppId": 637650_1261414,
+      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/637650/header.jpg?t=1775105127",
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/637650_1261414.zip"
+      ],
+      "allowedRoles": "shadow, Echo, soldier"
+    },
+    {
+      "name": "FINAL FANTASY XV WINDOWS EDITION Build.1213041",
+      "steamAppId": 637650_1213041,
+      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/637650/header.jpg?t=1775105127",
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/637650_1213041.zip"
+      ],
+      "allowedRoles": "shadow, Echo, soldier"
+    },
+    {
       "name": "ZENONIA 1",
       "steamAppId": 4538960,
       "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4538960/f25c2ff778bf89922cba126556625d47a8a30ffa/header.jpg?t=1788159622",
