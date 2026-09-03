@@ -82,6 +82,24 @@
       "category": "bypass"
     },
     {
+      "name": "FINAL FANTASY XV WINDOWS EDITION Build.1261414",
+      "steamAppId": 637650_1261414,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/1261414.rar"
+      ],
+      "allowdRoles": "shadow, Echo, soldier",
+      "category": "bypass"
+    },
+    {
+      "name": "FINAL FANTASY XV WINDOWS EDITION Build.1213041",
+      "steamAppId": 637650_1213041,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/1213041.rar"
+      ],
+      "allowdRoles": "shadow, Echo, soldier",
+      "category": "bypass"
+    },
+    {
       "name": "STAR WARS Jedi: Survivor™",
       "steamAppId": 1774580,
       "files": [
