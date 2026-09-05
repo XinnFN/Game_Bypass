@@ -82,6 +82,15 @@
       "category": "bypass"
     },
     {
+      "name": "Star Wars Outlaws",
+      "steamAppId": 2842040,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Star.Wars.Outlaws.rar"
+      ],
+      "allowdRoles": "shadow, Echo, soldier",
+      "category": "bypass"
+    },
+    {
       "name": "FINAL FANTASY XV WINDOWS EDITION Build.1261414",
       "steamAppId": 637650.1261414,
       "files": [
