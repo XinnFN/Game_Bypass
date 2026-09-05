@@ -127,6 +127,15 @@
       "category": "bypass"
     },
     {
+      "name": "METAL GEAR SOLID V: THE PHANTOM PAIN",
+      "steamAppId": 287700,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Metal.Gear.Solid.V.Complete.rar"
+      ],
+      "allowdRoles": "shadow, Echo, soldier",
+      "category": "bypass"
+    },
+    {
       "name": "Just Cause 4",
       "steamAppId": 517630,
       "files": [
