@@ -91,6 +91,15 @@
       "category": "bypass"
     },
     {
+      "name": "Prince of Persia The Lost Crown",
+      "steamAppId": 2751000,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Prince.of.Persia.The.Lost.Crown.rar"
+      ],
+      "allowdRoles": "shadow, Echo, soldier",
+      "category": "bypass"
+    },
+    {
       "name": "FINAL FANTASY XV WINDOWS EDITION Build.1261414",
       "steamAppId": 637650.1261414,
       "files": [
