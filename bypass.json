@@ -505,15 +505,6 @@
       "category": "bypass"
     },
     {
-      "name": "METAL GEAR SOLID V: THE PHANTOM PAIN",
-      "steamAppId": 287700,
-      "files": [
-        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Metal.Gear.Solid.V.The.Phantom.Pain.rar"
-      ],
-      "allowedRoles": "shadow, Echo, soldier",
-      "category": "bypass"
-    },
-    {
       "name": "Dead Space",
       "steamAppId": 1693980,
       "files": [
