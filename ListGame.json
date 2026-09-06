@@ -19,11 +19,20 @@
       "allowedRoles": "shadow, Echo, soldier"
     },
     {
-      "name": "Dragon's Dogma 2",
-      "steamAppId": 2054970,
-      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2054970/header.jpg?t=1788308490",
+      "name": "Ready or Not",
+      "steamAppId": 1144200,
+      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1144200/2b44644b033a996a9efb95051bb01809215d0d23/header.jpg?t=1781703931",
       "files": [
-        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/2054970.zip"
+        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/1144200.zip"
+      ],
+      "allowedRoles": "shadow, Echo, soldier"
+    },
+    {
+      "name": "Persona 3 Reload",
+      "steamAppId": 2161700,
+      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2161700/header.jpg?t=1764776430",
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/2161700.zip"
       ],
       "allowedRoles": "shadow, Echo, soldier"
     },
