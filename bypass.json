@@ -100,6 +100,15 @@
       "category": "bypass"
     },
     {
+      "name": "Persona 3 Reload",
+      "steamAppId": 2161700,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Persona.3.reload.rar"
+      ],
+      "allowdRoles": "shadow, Echo, soldier",
+      "category": "bypass"
+    },
+    {
       "name": "FINAL FANTASY XV WINDOWS EDITION Build.1261414",
       "steamAppId": 637650.1261414,
       "files": [
