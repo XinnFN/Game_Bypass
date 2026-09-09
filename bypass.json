@@ -793,15 +793,6 @@
       "category": "bypass"
     },
     {
-      "name": "CODE VEIN",
-      "steamAppId": 678960,
-      "files": [
-        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/CODE.VEIN.rar"
-      ],
-      "allowedRoles": "shadow, Echo, soldier",
-      "category": "bypass"
-    },
-    {
       "name": "FIFA 22",
       "steamAppId": 1506830,
       "files": [
