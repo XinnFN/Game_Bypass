@@ -91,6 +91,24 @@
       "category": "bypass"
     },
     {
+      "name": "Assassin's Creed Unity",
+      "steamAppId": 289650,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/unity.7z"
+      ],
+      "allowdRoles": "shadow, Echo, soldier",
+      "category": "bypass"
+    },
+    {
+      "name": "Assassin's Creed Origins",
+      "steamAppId": 582160,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Assassins.Creed.Origins.Fix.rar"
+      ],
+      "allowdRoles": "shadow, Echo, soldier",
+      "category": "bypass"
+    },
+    {
       "name": "Prince of Persia The Lost Crown",
       "steamAppId": 2751000,
       "files": [
