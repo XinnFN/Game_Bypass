@@ -28,6 +28,15 @@
       "allowedRoles": "shadow, Echo, soldier"
     },
     {
+      "name": "L.A. Noire",
+      "steamAppId": 110800,
+      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/110800/header.jpg?t=1781132798",
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/110800.zip"
+      ],
+      "allowedRoles": "shadow, Echo, soldier"
+    },
+    {
       "name": "Persona 3 Reload",
       "steamAppId": 2161700,
       "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2161700/header.jpg?t=1764776430",
@@ -343,15 +352,6 @@
       "allowedRoles": "shadow, Echo, soldier"
     },
     {
-      "name": "MARVEL Tōkon: Fighting Souls",
-      "steamAppId": 3787240,
-      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3787240/943fda32c11b3e3f451458ffa95a4adca1f316a4/header.jpg?t=1786097849",
-      "files": [
-        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/3787240.zip"
-      ],
-      "allowedRoles": "shadow, Echo, soldier"
-    },
-    {
       "name": "Absolver",
       "steamAppId": 473690,
       "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/473690/header.jpg?t=1728689155",
@@ -523,60 +523,6 @@
       "allowedRoles": "shadow, Echo, soldier"
     },
     {
-      "name": "The Alters",
-      "steamAppId": 1601570,
-      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1601570/header.jpg?t=1784801366",
-      "files": [
-        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/1601570.zip"
-      ],
-      "allowedRoles": "shadow, Echo, soldier"
-    },
-    {
-      "name": "Let's School",
-      "steamAppId": 1937500,
-      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1937500/header.jpg?t=1753339721",
-      "files": [
-        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/1937500.zip"
-      ],
-      "allowedRoles": "shadow, Echo, soldier"
-    },
-    {
-      "name": "Halo: Campaign Evolved",
-      "steamAppId": 2806050,
-      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2806050/30d8542d35d7919b34e5f5dbe955d04c3f99e6da/header.jpg?t=1785367749",
-      "files": [
-        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/2806050.zip"
-      ],
-      "allowedRoles": "shadow, Echo, soldier"
-    },
-    {
-      "name": "E-Shop Tycoon",
-      "steamAppId": 4249850,
-      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4249850/89c708329b69dfa7b088e8e90857ac252459848b/header.jpg?t=1785239284",
-      "files": [
-        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/4249850.zip"
-      ],
-      "allowedRoles": "shadow, Echo, soldier"
-    },
-    {
-      "name": "DAVE THE DIVER",
-      "steamAppId": 1868140,
-      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1868140/81bdb3bce15d27ca1b4554a642d91096e89be229/header.jpg?t=1784533018",
-      "files": [
-        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/1868140.zip"
-      ],
-      "allowedRoles": "shadow, Echo, soldier"
-    },
-    {
-      "name": "DragonSword : Awakening",
-      "steamAppId": 4570720,
-      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4570720/96a897e98f4472e656fbe6681191b3066cab6056/header.jpg?t=1785227784",
-      "files": [
-        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/4570720.zip"
-      ],
-      "allowedRoles": "shadow, Echo, soldier"
-    },
-    {
       "name": "Battlefield™ 6",
       "steamAppId": 2807960,
       "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2807960/c12d12ce3c7d217398d3fcad77427bfc9d57c570/header.jpg?t=1784839791",
@@ -730,29 +676,11 @@
       "allowedRoles": "shadow, Echo, soldier"
     },
     {
-      "name": "inZOI",
-      "steamAppId": 2456740,
-      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2456740/89acee5c3d965af802002617d6c130e5e03bd240/header.jpg?t=1777449358",
-      "files": [
-        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/2456740.zip"
-      ],
-      "allowedRoles": "shadow, Echo, soldier"
-    },
-    {
       "name": "Hogwarts Legacy",
       "steamAppId": 990080,
       "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/990080/a3cdc6f40d97df8ac993679c2dd1edeb5222421e/header.jpg?t=1778797474",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/990080.zip"
-      ],
-      "allowedRoles": "shadow, Echo, soldier"
-    },
-    {
-      "name": "Among Us 3D",
-      "steamAppId": 3168600,
-      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3168600/23ed05c97630dee1c1b3cbab869d993151adb1fa/header.jpg?t=1775581014",
-      "files": [
-        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/3168600.zip"
       ],
       "allowedRoles": "shadow, Echo, soldier"
     },
@@ -892,15 +820,6 @@
       "allowedRoles": "shadow, Echo, soldier"
     },
     {
-      "name": "Green Hell",
-      "steamAppId": 815370,
-      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/815370/header.jpg?t=1778577818",
-      "files": [
-        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/815370.zip"
-      ],
-      "allowedRoles": "shadow, Echo, soldier"
-    },
-    {
       "name": "EA SPORTS FC™ 25",
       "steamAppId": 2669320,
       "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2669320/ec3fb7747fd8080ef53d7686e0d98c5abe1f51f1/header.jpg?t=1777395910",
@@ -935,24 +854,6 @@
       "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3241660/a12c92856b71315da885924ea5e1d5290c8025b8/header_alt_assets_2.jpg?t=1778158882",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/3241660.zip"
-      ],
-      "allowedRoles": "shadow, Echo, soldier"
-    },
-    {
-      "name": "TEKKEN 7",
-      "steamAppId": 389730,
-      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/389730/header.jpg?t=1765812753",
-      "files": [
-        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/389730.zip"
-      ],
-      "allowedRoles": "shadow, Echo, soldier"
-    },
-    {
-      "name": "TEKKEN 8",
-      "steamAppId": 1778820,
-      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1778820/8518523e6bea615ba8127c6fc215fd1eac966501/header.jpg?t=1779923026",
-      "files": [
-        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/1778820.zip"
       ],
       "allowedRoles": "shadow, Echo, soldier"
     },
@@ -1214,24 +1115,6 @@
       "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1627720/header.jpg?t=1764565054",
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/1627720.zip"
-      ],
-      "allowedRoles": "shadow, Echo, soldier"
-      },
-    {
-      "name": "Clair Obscur: Expedition 33",
-      "steamAppId": 1903340,
-      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1903340/be3305b02d4db0dffa3458537118423bf2792d7e/header.jpg?t=1773676780",
-      "files": [
-        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/1903340.zip"
-      ],
-      "allowedRoles": "shadow, Echo, soldier"
-      },
-    {
-      "name": "ELDEN RING NIGHTREIGN",
-      "steamAppId": 2622380,
-      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2622380/header.jpg?t=1773099036",
-      "files": [
-        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/2622380.zip"
       ],
       "allowedRoles": "shadow, Echo, soldier"
       },
