@@ -100,6 +100,15 @@
       "category": "bypass"
     },
     {
+      "name": "L.A. Noire",
+      "steamAppId": 110800,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/LANoire.rar"
+      ],
+      "allowdRoles": "shadow, Echo, soldier",
+      "category": "bypass"
+    },
+    {
       "name": "Assassin's Creed Unity",
       "steamAppId": 289650,
       "files": [
