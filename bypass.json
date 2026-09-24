@@ -118,6 +118,15 @@
       "category": "bypass"
     },
     {
+      "name": "Marvel's Guardians of the Galaxy",
+      "steamAppId": 1088850,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Marvel.s.Guardians.of.the.Galaxy.Fix.rar"
+      ],
+      "allowdRoles": "shadow, Echo, soldier",
+      "category": "bypass"
+    },
+    {
       "name": "Assassin's Creed Unity",
       "steamAppId": 289650,
       "files": [
