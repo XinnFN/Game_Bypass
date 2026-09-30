@@ -109,6 +109,15 @@
       "category": "bypass"
     },
     {
+      "name": "Minecraft Dungeons II",
+      "steamAppId": 1912410,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Dungeons.zip"
+      ],
+      "allowdRoles": "shadow, Echo, soldier",
+      "category": "bypass"
+    },
+    {
       "name": "L.A. Noire",
       "steamAppId": 110800,
       "files": [
