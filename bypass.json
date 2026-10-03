@@ -136,6 +136,15 @@
       "category": "bypass"
     },
     {
+      "name": "Sniper Elite 4",
+      "steamAppId": 312660,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/sp.elite.4.rar"
+      ],
+      "allowdRoles": "shadow, Echo, soldier",
+      "category": "bypass"
+    },
+    {
       "name": "Assassin's Creed Unity",
       "steamAppId": 289650,
       "files": [
