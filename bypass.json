@@ -118,6 +118,15 @@
       "category": "bypass"
     },
     {
+      "name": "Riders Republic",
+      "steamAppId": 2290180,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/RidersRepublic.zip"
+      ],
+      "allowdRoles": "shadow, Echo, soldier",
+      "category": "bypass"
+    },
+    {
       "name": "L.A. Noire",
       "steamAppId": 110800,
       "files": [
