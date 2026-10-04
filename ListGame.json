@@ -64,6 +64,15 @@
       "allowedRoles": "shadow, Echo, soldier"
     },
     {
+      "name": "Riders Republic",
+      "steamAppId": 2290180,
+      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2290180/c384df0cbfeba26c167fab3d30961f3850b17b3d/header.jpg?t=1790170359",
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/2290180.zip"
+      ],
+      "allowedRoles": "shadow, Echo, soldier"
+    },
+    {
       "name": "Persona 3 Reload",
       "steamAppId": 2161700,
       "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2161700/header.jpg?t=1764776430",
