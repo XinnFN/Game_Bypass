@@ -100,6 +100,15 @@
       "category": "bypass"
     },
     {
+      "name": "The Crew 2",
+      "steamAppId": 646910,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/TheCrew2.rar"
+      ],
+      "allowdRoles": "shadow, Echo, soldier",
+      "category": "bypass"
+    },
+    {
       "name": "Star Wars Outlaws",
       "steamAppId": 2842040,
       "files": [
