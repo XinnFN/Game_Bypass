@@ -127,6 +127,15 @@
       "category": "bypass"
     },
     {
+      "name": "Atomfall",
+      "steamAppId": 801800,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Atomfall.rar"
+      ],
+      "allowdRoles": "shadow, Echo, soldier",
+      "category": "bypass"
+    },
+    {
       "name": "Riders Republic",
       "steamAppId": 2290180,
       "files": [
