@@ -100,6 +100,15 @@
       "category": "bypass"
     },
     {
+      "name": "The Adventures of Elliot: The Millennium Tales",
+      "steamAppId": 3483510,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/The.Adventures.of.Elliot.The.Millennium.Tales.rar"
+      ],
+      "allowdRoles": "shadow, Echo, soldier",
+      "category": "bypass"
+    },
+    {
       "name": "The Crew 2",
       "steamAppId": 646910,
       "files": [
