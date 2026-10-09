@@ -37,7 +37,7 @@
       "allowedRoles": "shadow, Echo, soldier"
     },
     {
-      "name": "Marvel's Guardians of the Galaxy",
+      "name": "Marvels Guardians of the Galaxy",
       "steamAppId": 1088850,
       "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1088850/bdbf8be37e665ba0e6f44111e3665d280f13ed16/header.jpg?t=1780588517",
       "files": [
@@ -235,7 +235,7 @@
       "allowedRoles": "shadow, Echo, soldier"
     },
     {
-      "name": "Tom Clancy's Ghost Recon® Wildlands",
+      "name": "Tom Clancys Ghost Recon® Wildlands",
       "steamAppId": 460930,
       "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/460930/36ca0e082902bb8b6f4f0f3ae20de41b1a3c54c6/header.jpg?t=1786116240",
       "files": [
@@ -631,7 +631,7 @@
       "allowedRoles": "shadow, Echo, soldier"
     },
     {
-      "name": "Mirror's Edge™ Catalyst",
+      "name": "Mirrors Edge™ Catalyst",
       "steamAppId": 1233570,
       "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1233570/header.jpg?t=1777486496",
       "files": [
