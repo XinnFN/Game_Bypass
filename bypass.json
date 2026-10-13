@@ -109,10 +109,10 @@
       "category": "bypass"
     },
     {
-      "name": "Battlefield™ 3",
+      "name": "Battlefield 3™",
       "steamAppId": 1238820,
       "files": [
-        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Battlefield.3.zip"
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Battlefield3.zip"
       ],
       "allowdRoles": "shadow, Echo, soldier",
       "category": "bypass"
