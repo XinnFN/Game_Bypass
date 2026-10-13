@@ -145,6 +145,15 @@
       "category": "bypass"
     },
     {
+      "name": "CarX Street",
+      "steamAppId": 1114150,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/CarXStreet.zip"
+      ],
+      "allowdRoles": "shadow, Echo, soldier",
+      "category": "bypass"
+    },
+    {
       "name": "Gears of War: E-Day",
       "steamAppId": 3010850,
       "files": [
