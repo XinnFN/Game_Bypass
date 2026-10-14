@@ -64,6 +64,15 @@
       "category": "online-fix"
     },
     {
+      "name": "NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS",
+      "steamAppId": 1020790,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/narutoxboruto.zip"
+      ],
+      "allowdRoles": "shadow, Echo, soldier",
+      "category": "online-fix"
+    },
+    {
       "name": "Split Fiction",
       "steamAppId": 2001120,
       "files": [
