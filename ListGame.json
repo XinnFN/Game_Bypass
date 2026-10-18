@@ -28,6 +28,15 @@
       "allowedRoles": "shadow, Echo, soldier"
     },
     {
+      "name": "Call of Duty®: Modern Warfare® 4 - Beta",
+      "steamAppId": 4783780,
+      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4783780/8c72205bfdf522bada8431d2aacbd1b6c66fac4c/header.jpg?t=1787941380",
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/4783780.zip"
+      ],
+      "allowedRoles": "shadow, Echo, soldier"
+    },
+    {
       "name": "EA SPORTS FC™ 27",
       "steamAppId": 4080220,
       "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4080220/05d419a45653a1299ce46d13dbff4533fa076c1c/header.jpg?t=1788235145",
