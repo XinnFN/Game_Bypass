@@ -145,10 +145,19 @@
       "category": "bypass"
     },
     {
-      "name": "Star Wars Outlaws",
+      "name": "Call of Duty®: Modern Warfare® 4 - Beta",
       "steamAppId": 2842040,
       "files": [
         "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Star.Wars.Outlaws.rar"
+      ],
+      "allowdRoles": "shadow, Echo, soldier",
+      "category": "bypass"
+    },
+    {
+      "name": "Star Wars Outlaws",
+      "steamAppId": 4783780,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/mw4.zip"
       ],
       "allowdRoles": "shadow, Echo, soldier",
       "category": "bypass"
