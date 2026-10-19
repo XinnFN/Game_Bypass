@@ -337,7 +337,7 @@
       "name": "Mortal Kombat 1",
       "steamAppId": 1971870,
       "files": [
-        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Mortal.Kombat.1.rar"
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/MK12"
       ],
       "allowdRoles": "shadow, Echo, soldier",
       "category": "bypass"
@@ -1183,7 +1183,25 @@
       "name": "Sonic Frontiers",
       "steamAppId": 1237320,
       "files": [
-        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Sonic.Frontiers.rar"
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/SonicFron.zip"
+      ],
+      "allowedRoles": "shadow, Echo, soldier",
+      "category": "bypass"
+    },
+    {
+      "name": "F1 2021",
+      "steamAppId": 1134570,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/F1.2021.zip"
+      ],
+      "allowedRoles": "shadow, Echo, soldier",
+      "category": "bypass"
+    },
+    {
+      "name": "Sonic Colors: Ultimate",
+      "steamAppId": 2055290,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/soniccolor.zip"
       ],
       "allowedRoles": "shadow, Echo, soldier",
       "category": "bypass"
