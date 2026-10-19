@@ -91,6 +91,15 @@
       "allowedRoles": "shadow, Echo, soldier"
     },
     {
+      "name": "The Crew Motorfest",
+      "steamAppId": 2698940,
+      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2698940/715d1f1e53a55a46ca00e689a1b7651c17fa592f/header.jpg?t=1791551745",
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/2698940.zip"
+      ],
+      "allowedRoles": "shadow, Echo, soldier"
+    },
+    {
       "name": "Minecraft Dungeons II",
       "steamAppId": 1912410,
       "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1912410/86cbba83c1aaffa0b0efa4197ce29c2264ea9dc2/header.jpg?t=1790668865",
