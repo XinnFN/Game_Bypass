@@ -55,6 +55,24 @@
       "category": "online-fix"
     },
     {
+      "name": "The Crew Motorfest",
+      "steamAppId": 2698940,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/TheCrewMotorfest.rar"
+      ],
+      "allowdRoles": "shadow, Echo, soldier",
+      "category": "online-fix"
+    },
+    {
+      "name": "DARK SOULS™: REMASTERED",
+      "steamAppId": 570940,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/ds1.rar"
+      ],
+      "allowdRoles": "shadow, Echo, soldier",
+      "category": "online-fix"
+    },
+    {
       "name": "Sons Of The Forest",
       "steamAppId": 1326470,
       "files": [
