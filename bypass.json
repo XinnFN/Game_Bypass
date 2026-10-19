@@ -127,6 +127,24 @@
       "category": "bypass"
     },
     {
+      "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles",
+      "steamAppId": 1490890,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Dms1.zip"
+      ],
+      "allowdRoles": "shadow, Echo, soldier",
+      "category": "bypass"
+    },
+    {
+      "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2",
+      "steamAppId": 2928600,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/dms2.zip"
+      ],
+      "allowdRoles": "shadow, Echo, soldier",
+      "category": "bypass"
+    },
+    {
       "name": "Call of Duty®",
       "steamAppId": 1938090,
       "files": [
