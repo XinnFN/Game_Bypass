@@ -46,6 +46,24 @@
       "allowedRoles": "shadow, Echo, soldier"
     },
     {
+      "name": "STAR WARS™ Battlefront™",
+      "steamAppId": 1237980,
+      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1237980/header.jpg?t=1777393769",
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/1237980.zip"
+      ],
+      "allowedRoles": "shadow, Echo, soldier"
+    },
+    {
+      "name": "STAR WARS™ Battlefront™ II",
+      "steamAppId": 1237950,
+      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1237950/header.jpg?t=1777393714",
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/1237950.zip"
+      ],
+      "allowedRoles": "shadow, Echo, soldier"
+    },
+    {
       "name": "Call of Duty®: Modern Warfare® 4",
       "steamAppId": 4435490,
       "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4435490/0c492be3204835d71e8b454b6eb1817f8ff68c0d/header.jpg?t=1792214069",
