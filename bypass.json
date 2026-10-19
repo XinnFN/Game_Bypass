@@ -118,6 +118,24 @@
       "category": "bypass"
     },
     {
+      "name": "STAR WARS™ Battlefront™",
+      "steamAppId": 1237980,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/swb1.zip"
+      ],
+      "allowdRoles": "shadow, Echo, soldier",
+      "category": "bypass"
+    },
+    {
+      "name": "STAR WARS™ Battlefront™ II",
+      "steamAppId": 1237950,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/swb2.zip"
+      ],
+      "allowdRoles": "shadow, Echo, soldier",
+      "category": "bypass"
+    },
+    {
       "name": "Battlefield 3™",
       "steamAppId": 1238820,
       "files": [
