@@ -163,6 +163,15 @@
       "category": "bypass"
     },
     {
+      "name": "Atomic Heart",
+      "steamAppId": 668580,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/AtomicHeart.zip"
+      ],
+      "allowdRoles": "shadow, Echo, soldier",
+      "category": "bypass"
+    },
+    {
       "name": "Scam With Your Friends",
       "steamAppId": 4954910,
       "files": [
