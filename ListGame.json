@@ -136,6 +136,15 @@
       "allowedRoles": "shadow, Echo, soldier"
     },
     {
+      "name": "Borderlands® 4",
+      "steamAppId": 1285190,
+      "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1285190/986a88d1b0e1420b00183def2a7034508353afa3/header.jpg?t=1789422727",
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/1285190.zip"
+      ],
+      "allowedRoles": "shadow, Echo, soldier"
+    },
+    {
       "name": "Sniper Elite 4",
       "steamAppId": 312660,
       "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/312660/header.jpg?t=1681207252",
