@@ -136,6 +136,15 @@
       "category": "bypass"
     },
     {
+      "name": "Borderlands® 4",
+      "steamAppId": 1285190,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/BD4.zip"
+      ],
+      "allowdRoles": "shadow, Echo, soldier",
+      "category": "bypass"
+    },
+    {
       "name": "STAR WARS™ Battlefront™",
       "steamAppId": 1237980,
       "files": [
