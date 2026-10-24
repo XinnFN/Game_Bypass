@@ -64,6 +64,15 @@
       "category": "online-fix"
     },
     {
+      "name": "Bodycam",
+      "steamAppId": 2406770,
+      "files": [
+        "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Bodycam.zip"
+      ],
+      "allowdRoles": "shadow, Echo, soldier",
+      "category": "online-fix"
+    },
+    {
       "name": "DARK SOULS™: REMASTERED",
       "steamAppId": 570940,
       "files": [
